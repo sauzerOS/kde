@@ -1,0 +1,14 @@
+#!/bin/sh -e
+
+git cherry-pick -n da65bee12d9118fe1a49c8718d428fe61d232339 \
+                     ad0365b77b583da06bcd1e8da4c1bed74129895a
+
+patch -Np1 -i 0001-tests-Drop-check-format-test.patch
+
+meson setup build         \
+      --prefix=/usr       \
+      --buildtype=release \
+      -D admin_group=wheel
+
+meson compile -C build
+meson install -C build --destdir=$1

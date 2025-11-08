@@ -1,0 +1,10 @@
+#!/bin/sh -e
+
+meson setup build          \
+      --prefix=/usr        \
+      --buildtype=release  \
+      -D gtk_doc=false     \
+      -D tests=false
+
+meson compile -C build
+meson install -C build --destdir=$1

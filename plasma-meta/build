@@ -1,0 +1,6 @@
+#!/bin/sh -e
+
+install -d $1/etc/pam.d
+install -Dm 644 kde $1/etc/pam.d/kde
+install -Dm 644 kde-np $1/etc/pam.d/kde-np
+install -Dm 644 kscreensaver $1/etc/pam.d/kscreensaver

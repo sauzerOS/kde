@@ -1,0 +1,11 @@
+#!/bin/sh -e
+
+cmake -B build                            \
+      -D CMAKE_INSTALL_PREFIX=/usr        \
+      -D CMAKE_BUILD_TYPE=Release         \
+      -D BUILD_WITH_QT6=ON                \
+      -D BUILD_TESTING=OFF                \
+      -W no-dev
+
+cmake --build build
+DESTDIR=$1 cmake --install build
