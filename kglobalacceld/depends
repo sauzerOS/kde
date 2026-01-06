@@ -1,1 +1,13 @@
+kconfig
+kcoreaddons
+kcrash
+kdbusaddons
+kglobalaccel
+kio
+kjobwidgets
+kservice
+kwindowsystem
 qt6
+libxcb
+
+xcb-util-keysyms
