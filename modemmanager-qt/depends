@@ -1,1 +1,3 @@
 modemmanager
+qt6
+extra-cmake-modules make

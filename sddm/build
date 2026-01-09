@@ -2,6 +2,7 @@
 
 cmake -B build                                                         \
       -D CMAKE_INSTALL_PREFIX=/usr                                     \
+      -D CMAKE_BUILD_TYPE=Release                                      \
       -D CMAKE_INSTALL_LIBEXECDIR=/usr/lib/sddm                        \
       -D BUILD_WITH_QT6=ON                                             \
       -D DBUS_CONFIG_DIR=/usr/share/dbus-1/system.d                    \
@@ -18,4 +19,4 @@ install -d "$1"/usr/lib/sddm/sddm.conf.d
 # Don't set PATH in sddm.conf
 sed -r 's|DefaultPath=.*|DefaultPath=/usr/local/sbin:/usr/local/bin:/usr/bin|g' -i "$1"/usr/lib/sddm/sddm.conf.d/default.conf
 # Unset InputMethod https://github.com/sddm/sddm/issues/952
-sed -e "/^InputMethod/s/qtvirtualkeyboard//" -i "$1"/usr/lib/sddm/sddm.conf.d/default.conf
+sed -i  's/qtvirtualkeyboard//'  $1/usr/lib/sddm/sddm.conf.d/default.conf

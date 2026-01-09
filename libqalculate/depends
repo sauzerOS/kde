@@ -1,3 +1,5 @@
 curl
 icu
 libxml2
+readline
+intltool make

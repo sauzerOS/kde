@@ -1,3 +1,23 @@
+dmidecode
 lm-sensors
 libusb
 vulkan-tools
+glu
+iproute2
+kauth
+kcmutils
+kconfig
+lcoreaddons
+kdeclarative
+ki18n
+kirigami
+kservice
+libdisplay-info
+libdrm
+pulseaudio
+qt6
+solid
+systemsettings
+xdpyinfo
+extra-cmake-modules make
+vulkan-headers make
