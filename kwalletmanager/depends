@@ -1,0 +1,20 @@
+karchive
+kauth
+kcmutils
+kcodecs
+kconfig
+kconfigwidgets
+kcoreaddons
+kcrash
+kdbusaddons
+ki18n
+kio
+kitemviews
+kservice
+kstatusnotifieritem
+kwallet
+kwidgetsaddons
+kwindowsystem
+kxmlgui
+qt6
+extra-cmake-modules make
