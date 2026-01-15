@@ -26,3 +26,5 @@ install -d "$1"/etc/pam.d
 install -Dm644 sddm "$1"/etc/pam.d/sddm
 install -Dm644 sddm-autologin "$1"/etc/pam.d/sddm-autologin
 install -Dm644 sddm-greeter "$1"/etc/pam.d/sddm-greeter
+
+ln -s sddm-greeter-qt6 $1/usr/bin/sddm-greeter

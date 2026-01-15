@@ -1,3 +1,4 @@
+gdb make
 kde-framework
 polkit-qt
 python-psutil
@@ -5,4 +6,3 @@ python-pygdbmi
 python-sentry-sdk
 qt6
 syntax-highlighting
-gdb make
