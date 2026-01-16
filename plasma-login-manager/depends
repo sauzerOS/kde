@@ -1,0 +1,17 @@
+kpackage
+layer-shell-qt
+libplasma
+kdbusaddons
+kio
+kconfig
+kwindowsystem
+kirigami
+plasma-workspace
+libplasma
+kcoreaddons
+qt6
+kservice
+kauth
+kcmutils
+ki18n
+libXau
