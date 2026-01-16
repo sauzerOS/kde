@@ -1,1 +1,4 @@
 https://download.kde.org/stable/plasma/${version}/kscreenlocker-${version}.tar.xz
+files/kde-fingerprint.pam
+files/kde.pam
+files/kde-smartcard.pam

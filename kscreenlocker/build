@@ -10,3 +10,7 @@ cmake -B build                            \
 
 cmake --build build
 DESTDIR=$1 cmake --install build
+
+install -Dm644 kde.pam "$1"/usr/lib/pam.d/kde
+install -Dm644 kde-fingerprint.pam "$1"/usr/lib/pam.d/kde-fingerprint
+install -Dm644 kde-smartcard.pam "$1"/usr/lib/pam.d/kde-smartcard
