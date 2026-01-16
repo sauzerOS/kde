@@ -1,4 +1,1 @@
 https://github.com/sddm/sddm/archive/v${version}/sddm-${version}.tar.gz
-files/sddm
-files/sddm-autologin
-files/sddm-greeter
