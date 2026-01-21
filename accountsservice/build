@@ -1,5 +1,7 @@
 #!/bin/sh -e
 
+mv tests/dbusmock{,-tests}
+
 git cherry-pick -n da65bee12d9118fe1a49c8718d428fe61d232339 \
                      ad0365b77b583da06bcd1e8da4c1bed74129895a
 
