@@ -1,0 +1,11 @@
+#!/bin/sh -e
+
+cmake -B build  \
+  -D CMAKE_BUILD_TYPE=Release \
+  -D CMAKE_INSTALL_PREFIX=/usr \
+  -D BUILD_DOC=OFF \
+  -D FORCE_NOT_REQUIRED_DEPENDENCIES=KF6DocTools \
+  -D BUILD_TESTING=OFF
+
+cmake --build build
+DESTDIR=$1 cmake --install build
