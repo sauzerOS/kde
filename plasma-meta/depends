@@ -91,3 +91,6 @@ print-manager
 oxygen
 konsole
 dolphin
+lightdm
+lightdm-gtk-greeter
+lightdm-gtk-greeter-settings
