@@ -1,0 +1,17 @@
+gmp
+kcolorscheme
+kconfig
+kconfigwidgets
+kcoreaddons
+kcrash
+kguiaddons
+ki18n
+kiconthemes
+knotifications
+kwidgetsaddons
+kxmlgui
+mpc
+mpfr
+qt6
+cmake make
+extra-cmake-modules make
