@@ -1,2 +1,4 @@
 qrencode
 qt6
+libdmtx
+zxing-cpp

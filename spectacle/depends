@@ -1,0 +1,31 @@
+glibc
+kconfig
+kconfigwidgets
+kcoreaddons
+kcrash
+kdbusaddons
+kglobalaccel
+kguiaddons
+ki18n
+kio
+kirigami
+kjobwidgets
+knotifications
+kpipewire
+kservice
+kstatusnotifieritem
+kwidgetsaddons
+kwindowsystem
+kxmlgui
+layer-shell-qt
+libxcb
+opencv
+prison
+purpose
+qt6
+wayland
+xcb-util
+xcb-util-cursor
+xcb-util-image
+extra-cmake-modules make
+plasma-wayland-protocols make
