@@ -1,4 +1,7 @@
 cmake make
 make-ca
+nss
+openssl
 qt6
 which
+libgcrypt make
