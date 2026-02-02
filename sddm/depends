@@ -1,5 +1,5 @@
 pam
-libXau
+libxau
 libxcb
 qt6
 xlibre
