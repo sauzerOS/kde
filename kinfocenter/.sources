@@ -1,1 +1,3 @@
 https://download.kde.org/stable/plasma/${version}/kinfocenter-${version}.tar.xz
+files/kcm-about-distrorc
+files/logo.png

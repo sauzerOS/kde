@@ -11,3 +11,6 @@ cmake -B build                            \
 
 cmake --build build
 DESTDIR=$1 cmake --install build
+
+install -Dm644 kcm-about-distrorc "$1"/etc/xdg/kcm-about-distrorc
+install -Dm644 logo.png "$1"/usr/share/kinfocenter/logo.png
