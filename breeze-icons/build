@@ -1,9 +1,10 @@
 #!/bin/sh -e
 
-cmake -B build               \
--D CMAKE_INSTALL_PREFIX=/usr \
-      -D BUILD_TESTING=OFF   \
-      -W no-dev
+cmake -B build                 \
+  -D CMAKE_INSTALL_PREFIX=/usr \
+  -D BINARY_ICONS_RESOURCE=ON  \
+  -D BUILD_TESTING=OFF         \
+  -W no-dev
 
 cmake --build build
 DESTDIR=$1 cmake --install build
