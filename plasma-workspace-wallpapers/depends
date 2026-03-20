@@ -1,2 +1,2 @@
 extra-cmake-modules make
-qt<6 make
+qt==5.15.18 make

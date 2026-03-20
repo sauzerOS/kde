@@ -21,4 +21,4 @@ sed -r 's|DefaultPath=.*|DefaultPath=/usr/local/sbin:/usr/local/bin:/usr/bin|g' 
 # Unset InputMethod https://github.com/sddm/sddm/issues/952
 sed -i  's/qtvirtualkeyboard//'  $1/usr/lib/sddm/sddm.conf.d/default.conf
 
-ln -s sddm-greeter-qt6 $1/usr/bin/sddm-greeter
+ln -s sddm-greeter-qt $1/usr/bin/sddm-greeter

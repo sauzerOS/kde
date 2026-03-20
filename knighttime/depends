@@ -2,5 +2,5 @@ kconfig
 kcoreaddons
 kdbusaddons
 kholidays
-qt6
+qt
 ki18n make

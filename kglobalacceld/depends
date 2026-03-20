@@ -7,7 +7,7 @@ kio
 kjobwidgets
 kservice
 kwindowsystem
-qt6
+qt
 libxcb
 
 xcb-util-keysyms

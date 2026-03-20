@@ -3,5 +3,5 @@ glibc
 kconfig
 kirigami
 opencv
-qt6
+qt
 extra-cmake-modules make

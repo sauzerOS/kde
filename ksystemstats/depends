@@ -1,7 +1,7 @@
 kde-framework
 libksysguard
 lm-sensors
-qt6
+qt
 solid
 libnl
 networkmanager-qt

@@ -12,6 +12,6 @@ kwidgetsaddons
 kxmlgui
 mpc
 mpfr
-qt6
+qt
 cmake make
 extra-cmake-modules make

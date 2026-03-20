@@ -3,6 +3,6 @@ libplasma
 plasma-activities
 plasma-workspace
 qcoro
-qt6
+qt
 solid
 plasma-wayland-protocols

@@ -4,7 +4,7 @@ libplasma
 libdisplay-info
 pipewire
 plasma-activities
-qt6
+qt
 krunner
 plasma-wayland-protocols
 kglobalacceld

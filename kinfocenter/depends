@@ -15,7 +15,7 @@ kservice
 libdisplay-info
 libdrm
 pulseaudio
-qt6
+qt
 solid
 systemsettings
 xdpyinfo

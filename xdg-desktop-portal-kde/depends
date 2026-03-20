@@ -3,7 +3,7 @@ kwayland
 kirigami-addons
 kpipewire
 libxkbcommon
-qt6
+qt
 xdg-desktop-portal
 plasma-wayland-protocols
 

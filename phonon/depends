@@ -1,5 +1,5 @@
 cmake
 extra-cmake-modules
 glib
-qt6
+qt
 pulseaudio

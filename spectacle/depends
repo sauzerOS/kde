@@ -23,7 +23,7 @@ libxcb
 opencv
 prison
 purpose
-qt6
+qt
 wayland
 xcb-util
 xcb-util-cursor
