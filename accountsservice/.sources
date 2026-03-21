@@ -1,2 +1,0 @@
-git+https://gitlab.freedesktop.org/accountsservice/accountsservice#${version}
-files/0001-tests-Drop-check-format-test.patch
