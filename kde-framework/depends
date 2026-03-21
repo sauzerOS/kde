@@ -4,7 +4,7 @@ bluez-qt
 breeze-icons
 extra-cmake-modules
 frameworkintegration
-python-kapidox
+kapidox
 karchive
 kauth
 kbookmarks
