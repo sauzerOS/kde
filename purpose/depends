@@ -1,3 +1,4 @@
+kcmutils
 kconfig
 kcoreaddons
 ki18n
@@ -6,3 +7,6 @@ kirigami
 knotifications
 kservice
 qt
+prison make
+qt-tools make
+extra-cmake-modules make

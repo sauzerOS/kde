@@ -15,3 +15,5 @@ libplasma
 libxau
 plasma-workspace
 qt
+cmake make
+extra-cmake-modules make

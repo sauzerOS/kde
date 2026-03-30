@@ -1,41 +1,14 @@
 #!/bin/sh -e
 
 cmake -B build \
-  -D CMAKE_INSTALL_PREFIX=/usr \
-  -D CMAKE_BUILD_TYPE=Release \
-  -D INSTALL_PAM_CONFIGURATION=arch \
-  -D SESSION_COMMAND=/usr/share/plasmalogin/scripts/Xsession \
-  -D WAYLAND_SESSION_COMMAND=/usr/share/plasmalogin/scripts/wayland-session \
-  -D BUILD_TESTING=OFF \
-  -D DBUS_CONFIG_DIR=/usr/share/dbus-1/system.d \
-  -D DBUS_CONFIG_FILENAME=plasmalogin_org.freedesktop.DisplayManager.conf \
-  -Wno-dev
+  -D CMAKE_INSTALL_LIBEXECDIR=lib \
+  -D INSTALL_PAM_CONFIGURATION:BOOL=OFF \
+  -D DBUS_CONFIG_FILENAME=plasma_org.freedesktop.DisplayManager.conf
 
 cmake --build build
 DESTDIR="$1" cmake --install build
 
-# Create directory for default configuration
-install -dm755 "$1/usr/lib/plasma-login"
-"$1"/usr/bin/plasmalogin --example-config > "$1"/usr/lib/plasma-login/defaults.conf
-
-# Set correct PATH in /usr/lib/plasma-login/defaults.conf
-sed -r 's|DefaultPath=.*|DefaultPath=/usr/local/sbin:/usr/local/bin:/usr/bin|g' -i "$1"/usr/lib/plasma-login/defaults.conf
-
-# Append missing critical settings (based on SDDM configuration on Arch Linux)
-# Add to [General] section
-sed -i '/^\[General\]/a DisplayServer=wayland' "$1"/usr/lib/plasma-login/defaults.conf
-sed -i '/^\[General\]/a HaltCommand=/usr/bin/systemctl poweroff' "$1"/usr/lib/plasma-login/defaults.conf
-sed -i '/^\[General\]/a RebootCommand=/usr/bin/systemctl reboot' "$1"/usr/lib/plasma-login/defaults.conf
-sed -i '/^\[General\]/a Numlock=none' "$1"/usr/lib/plasma-login/defaults.conf
-
-# Add to [Wayland] section
-sed -i '/^\[Wayland\]/a CompositorCommand=kwin_wayland --drm --no-lockscreen --no-global-shortcuts --locale1' "$1"/usr/lib/plasma-login/defaults.conf
-sed -i '/^\[Wayland\]/a EnableHiDPI=true' "$1"/usr/lib/plasma-login/defaults.conf
-sed -i '/^\[Wayland\]/a SessionCommand=/usr/share/plasmalogin/scripts/wayland-session' "$1"/usr/lib/plasma-login/defaults.conf
-sed -i '/^\[Wayland\]/a SessionDir=/usr/share/wayland-sessions' "$1"/usr/lib/plasma-login/defaults.conf
-
-# Add to [X11] section
-sed -i '/^\[X11\]/a DisplayCommand=/usr/share/plasmalogin/scripts/Xsetup' "$1"/usr/lib/plasma-login/defaults.conf
-sed -i '/^\[X11\]/a DisplayStopCommand=/usr/share/plasmalogin/scripts/Xstop' "$1"/usr/lib/plasma-login/defaults.conf
-sed -i '/^\[X11\]/a SessionCommand=/usr/share/plasmalogin/scripts/Xsession' "$1"/usr/lib/plasma-login/defaults.conf
-sed -i '/^\[X11\]/a SessionDir=/usr/share/xsessions' "$1"/usr/lib/plasma-login/defaults.conf
+install -d $1/usr/lib/pam.d
+install -Dm644 plasmalogin $1/usr/lib/pam.d/
+install -Dm644 plasmalogin-autologin $1/usr/lib/pam.d/
+install -Dm644 plasmalogin-greeter $1/usr/lib/pam.d/

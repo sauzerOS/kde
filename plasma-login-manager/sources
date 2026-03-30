@@ -1,1 +1,4 @@
-https://invent.kde.org/plasma/plasma-login-manager/-/archive/v6.5.90/plasma-login-manager-v6.5.90.tar.bz2
+https://invent.kde.org/plasma/plasma-login-manager/-/archive/v6.6.3/plasma-login-manager-v6.6.3.tar.bz2
+files/plasmalogin
+files/plasmalogin-autologin
+files/plasmalogin-greeter
