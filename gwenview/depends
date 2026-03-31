@@ -1,0 +1,33 @@
+baloo
+exiv2
+kcolorscheme
+kcompletion
+kconfig
+kconfigwidgets
+kcoreaddons
+kcrash
+kfilemetadata
+kguiaddons
+ki18n
+kiconthemes
+kimageannotator
+kio
+kitemmodels
+kitemviews
+kjobwidgets
+kparts
+kservice
+kwidgetsaddons
+kxmlgui
+little-cms
+libjpeg-turbo
+libpng
+libtiff
+libx11
+plasma-activities
+purpose
+qt
+solid
+wayland
+extra-cmake-modules make
+wayland-protocols make

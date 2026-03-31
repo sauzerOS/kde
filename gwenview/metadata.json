@@ -1,0 +1,13 @@
+{
+  "url": "https://apps.kde.org/gwenview/",
+  "category": "extra",
+  "description": "A fast and easy to use image viewer",
+  "info": "",
+  "license": "GPL-2.0-or-later",
+  "tags": [
+    "graphics",
+    "gui",
+    "kde",
+    "utility"
+  ]
+}
