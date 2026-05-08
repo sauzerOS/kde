@@ -1,0 +1,9 @@
+docbook-xsl
+glibc
+karchive
+libxml2
+libxslt
+qt
+extra-cmake-modules make
+ki18n make
+perl-uri make
