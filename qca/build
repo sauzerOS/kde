@@ -1,8 +1,5 @@
 #!/bin/sh -e
 
-# Force UTF-8 locale to avoid encoding issues
-export LC_ALL=en_US.UTF-8     
-
 sed -i 's@cert.pem@certs/ca-bundle.crt@' CMakeLists.txt
 
 cmake -B build                                   \

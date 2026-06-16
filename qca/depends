@@ -1,7 +1,7 @@
-cmake make
 make-ca
 nss
 openssl
 qt
 which
+cmake make
 libgcrypt make
