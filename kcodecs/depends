@@ -1,1 +1,2 @@
 qt
+extra-cmake-modules make
