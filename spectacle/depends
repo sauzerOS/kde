@@ -24,6 +24,7 @@ opencv
 prison
 purpose
 qt
+tesseract
 wayland
 xcb-util
 xcb-util-cursor
