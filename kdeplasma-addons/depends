@@ -1,3 +1,4 @@
+corrosion
 kde-framework
 kirigami
 kirigami-addons
@@ -7,4 +8,4 @@ plasma5support
 qt
 sonnet
 networkmanager-qt
-
+cmake make
