@@ -1,4 +1,27 @@
-kde-framework
+gcc-libs
+glibc
+kcolorscheme
+kconfig
+kcoreaddons
+kguiaddons
+ki18n
+kiconthemes
+kio
+kjobwidgets
+kservice
+kstatusnotifieritem
+kwidgetsaddons
+kwindowsystem
+libxcb
+libxcursor
+unicode-fonts
 qqc2-breeze-style
 qqc2-desktop-style
+qt
+qt-declarative
+wayland
 xdg-desktop-portal-kde
+extra-cmake-modules make
+knotifications make
+kwayland make
+plasma-wayland-protocols make

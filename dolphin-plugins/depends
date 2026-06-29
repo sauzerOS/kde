@@ -1,1 +1,17 @@
 dolphin
+gcc-libs
+glibc
+kcompletion
+kconfig
+kcoreaddons
+ki18n
+kio
+kjobwidgets
+kservice
+ktexteditor
+ktextwidgets
+kwidgetsaddons
+kxmlgui
+qt
+solid
+extra-cmake-modules make

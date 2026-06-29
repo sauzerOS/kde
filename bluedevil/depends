@@ -1,4 +1,23 @@
 bluez-qt
-kde-framework
+gcc-libs
+glibc
+kcmutils
+kconfig
+kcoreaddons
+kdbusaddons
+kdeclarative
+ki18n
+kio
+kirigami
+kjobwidgets
+knotifications
+kservice
+ksvg
+kwidgetsaddons
+kwindowsystem
 libplasma
 qt
+qt-declarative
+pulseaudio-bluetooth suggest to connect to A2DP profile
+extra-cmake-modules make
+kdoctools make

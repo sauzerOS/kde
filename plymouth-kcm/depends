@@ -1,3 +1,15 @@
-kde-framework
+gcc-libs
+glibc
+karchive
+kauth
+kcmutils
+kconfig
+kcoreaddons
+ki18n
+kio
+kirigami
+knewstuff
 plymouth
 qt
+qt-declarative
+extra-cmake-modules make

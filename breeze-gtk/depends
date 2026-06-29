@@ -1,1 +1,3 @@
-breeze
+breeze make
+extra-cmake-modules make
+sassc make 

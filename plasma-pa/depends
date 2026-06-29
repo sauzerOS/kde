@@ -1,9 +1,11 @@
+gcc-libs
+glib
+glibc
 kcmutils
 kconfig
 kcoreaddons
 kdbusaddons
 kdeclarative
-kde-framework
 kglobalaccel
 ki18n
 kirigami
@@ -12,7 +14,12 @@ kitemmodels
 kstatusnotifieritem
 ksvg
 libcanberra
+libplasma
+libpulse
 plasma-workspace
-pulseaudio
+pipewire-pulse | pulseaudio
 pulseaudio-qt
 qt
+qt-declarative
+extra-cmake-modules make
+kdoctools make 

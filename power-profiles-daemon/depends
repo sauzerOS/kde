@@ -1,3 +1,9 @@
+gcc-libs
+glib
+glibc
+libgudev
 polkit
-python-pygobject
 upower
+python-pygobject suggest for powerprofilesctl
+bash-completion make
+meson make

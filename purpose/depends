@@ -1,11 +1,21 @@
+gcc-libs
+glibc
+hicolor-icon-theme
 kcmutils
 kconfig
 kcoreaddons
 ki18n
 kio
 kirigami
+kitemmodels
 knotifications
 kservice
 qt
-prison make
+qt-declarative
+bluedevil suggest sharing via Bluetooth
+kdeclarative suggest Nextcloud and YouTube plugins
+prison suggest QR code plugin
 extra-cmake-modules make
+intltool make
+prison make
+qt6-tools make 

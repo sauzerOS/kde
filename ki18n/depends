@@ -1,2 +1,10 @@
+gcc-libs
+glibc
+iso-codes
 qt
+python suggest to compile .ts files
+qt-declarative suggest ktranscript plugin and QML bindings
 extra-cmake-modules make
+python make
+qt-declarative make
+qt-tools make 

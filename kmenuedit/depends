@@ -1,3 +1,21 @@
-kde-framework
+gcc-libs
+glibc
+kcompletion
+kconfig
+kconfigwidgets
+kcoreaddons
+kcrash
+kdbusaddons
+kglobalaccel
+ki18n
+kiconthemes
+kio
+kitemviews
+kservice
+kwidgetsaddons
+kwindowsystem
+kxmlgui
 qt
 sonnet
+extra-cmake-modules make
+kdoctools make

@@ -1,4 +1,8 @@
-kde-framework
+gcc-libs
+glibc
+libxcb
 qt
 wayland
-plasma-wayland-protocols
+extra-cmake-modules make
+plasma-wayland-protocols make
+qt-tools make

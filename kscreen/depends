@@ -1,6 +1,25 @@
-kde-framework
+gcc-libs
+glibc
+kcmutils
+kconfig
+kcoreaddons
+kcrash
+kdbusaddons
+ki18n
+kimageformats
+kirigami
+kitemmodels
+ksvg
+kwindowsystem
 layer-shell-qt
+libkscreen
 libplasma
+libx11
+libxcb
+libxi
 plasma5support
 qt
-libkscreen
+qt-declarative
+wayland
+extra-cmake-modules make
+wayland-protocols make 

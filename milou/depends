@@ -1,3 +1,12 @@
-kde-framework
+gcc-libs
+glibc
+kconfig
+kcoreaddons
+kirigami
+krunner
+ksvg
 libplasma
 qt
+qt-declarative
+extra-cmake-modules make
+kdoctools make

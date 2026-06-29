@@ -1,3 +1,11 @@
-kde-framework
-xlibre
+gcc-libs
+glibc
+kcmutils
+kconfig
+kcoreaddons
+ki18n
+libx11
+libxxf86vm
 qt
+extra-cmake-modules make
+kdoctools make

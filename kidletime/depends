@@ -1,1 +1,13 @@
+gcc-libs
+glibc
 qt
+libx11 suggest XCB plugin
+libxcb suggest XCB plugin
+libxext suggest XCB plugin
+libxss suggest XCB plugin
+wayland suggest Wayland plugin
+extra-cmake-modules make
+libxss make
+plasma-wayland-protocols make
+qt-tools make
+wayland-protocols make 

@@ -1,4 +1,14 @@
 flatpak
-kde-framework
+gcc-libs
+glib
+glibc
+kcmutils
+kconfig
+kcoreaddons
+ki18n
 kirigami
+kitemmodels
 kservice
+qt
+qt-declarative
+extra-cmake-modules make

@@ -1,1 +1,2 @@
-kde-framework
+extra-cmake-modules make
+qt make

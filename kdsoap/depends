@@ -1,2 +1,4 @@
-cmake make
+gcc-libs
+glibc
 qt
+cmake make

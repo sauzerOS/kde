@@ -1,6 +1,11 @@
+gcc-libs
+glibc
 kconfig
 kcoreaddons
 kdbusaddons
 kholidays
 qt
+qt-positioning
+extra-cmake-modules make
 ki18n make
+qt-tools make 

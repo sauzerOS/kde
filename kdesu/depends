@@ -1,5 +1,10 @@
-ki18n
+gcc-libs
+glibc
 kconfig
 kcoreaddons
+ki18n
 kpty
+libx11
 qt
+extra-cmake-modules make
+qt-tools make

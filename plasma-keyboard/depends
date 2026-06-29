@@ -1,0 +1,19 @@
+gcc-libs
+glibc
+kcmutils
+kconfig
+kcoreaddons
+kcrash
+ki18n
+kirigami
+kirigami-addons
+kitemmodels
+libplasma
+libxkbcommon
+qt
+qt-declarative
+qt-virtualkeyboard
+wayland
+extra-cmake-modules make
+qt-wayland make
+wayland-protocols make

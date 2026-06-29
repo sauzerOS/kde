@@ -1,2 +1,17 @@
-kde-framework
+bash
+gcc-libs
+glibc
+kcmutils
+kcolorscheme
+kconfig
+kcoreaddons
 kdecoration
+ki18n
+kirigami
+knewstuff
+kpackage
+ksvg
+qt
+qt-declarative
+qt-tools
+extra-cmake-modules make

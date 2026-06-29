@@ -1,12 +1,17 @@
+gcc-libs
+glibc
 kconfig
 kconfigwidgets
 kcoreaddons
 kguiaddons
-kio
 ki18n
+kio
 kirigami
 kitemviews
 kservice
 kwidgetsaddons
 kxmlgui
 qt
+qt-declarative
+extra-cmake-modules make
+qt-tools make

@@ -1,6 +1,16 @@
+bash
+gcc-libs
+glib
+glibc
+hicolor-icon-theme
 libgudev
 libmbim
 libqmi
-glib
+mobile-broadband-provider-info
 polkit
-vala
+systemd-libs
+bash-completion make
+gobject-introspection make
+meson make
+systemd make
+vala make

@@ -1,8 +1,15 @@
+gcc-libs
+glibc
 karchive
 kcolorscheme
 kconfig
 kcoreaddons
 kguiaddons
-kirigami
 qt
-
+qt-svg
+kirigami suggest QML bindings
+qt-declarative suggest QML bindings
+extra-cmake-modules make
+kirigami make
+qt-declarative make
+qt-tools make 

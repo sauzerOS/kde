@@ -1,2 +1,36 @@
-kde-framework
+bash
+gcc-libs
+glibc
 gpgmepp
+karchive
+kbookmarks
+kcolorscheme
+kcompletion
+kconfig
+kconfigwidgets
+kcoreaddons
+kcrash
+kdbusaddons
+kguiaddons
+ki18n
+kiconthemes
+kio
+knewstuff
+kparts
+kservice
+ktexteditor
+kuserfeedback
+kwidgetsaddons
+kwindowsystem
+kxmlgui
+qt
+syntax-highlighting
+clang suggest C and C++ LSP support
+git suggest git-blame plugin
+konsole suggest open a terminal in Kate
+qt-declarative suggest RBQL plugin
+qtkeychain suggest SQL plugin
+rust suggest Rust LSP support
+extra-cmake-modules make
+kdoctools make
+qtkeychain make 

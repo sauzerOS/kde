@@ -1,3 +1,13 @@
-boost
-kde-framework
+gcc-libs
+glibc
+kconfig
+kcoreaddons
+kcrash
+kglobalaccel
+ki18n
+kio
+kservice
+kxmlgui
 qt
+boost make
+extra-cmake-modules make 

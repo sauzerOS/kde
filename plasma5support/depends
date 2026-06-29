@@ -1,4 +1,24 @@
-kde-framework
+gcc-libs
+glibc
+kconfig
+kcoreaddons
+kguiaddons
+kholidays
+ki18n
+kidletime
+kio
+kjobwidgets
+knotifications
+kservice
+kunitconversion
+libksysguard
+libx11
+libxfixes
 qt
-plasma-activities
-networkmanager-qt
+qt-declarative
+solid
+networkmanager-qt suggest IP-based geolocation dataengine
+plasma-activities suggest activities dataengine
+extra-cmake-modules make
+networkmanager-qt make
+plasma-activities make 

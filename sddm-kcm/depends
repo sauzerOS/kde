@@ -1,3 +1,18 @@
-kde-framework
+gcc-libs
+glibc
+karchive
+kauth
+kcmutils
+kconfig
+kcoreaddons
+ki18n
+kio
+kirigami
+knewstuff
+kservice
+kwidgetsaddons
 qt
+qt-declarative
 sddm
+extra-cmake-modules make
+kdoctools make

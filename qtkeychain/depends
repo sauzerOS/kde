@@ -1,3 +1,7 @@
+gcc-libs
 glib
+glibc
+qt
 cmake make
-llvm make
+qt-declarative make
+qt-tools make

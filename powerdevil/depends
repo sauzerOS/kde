@@ -1,8 +1,33 @@
-kde-framework
+gcc-libs
+glibc
+kauth
+kcmutils
+kconfig
+kcoreaddons
+kcrash
+kdbusaddons
+kglobalaccel
+ki18n
+kidletime
+kirigami
+kitemmodels
+knotifications
+kpackage
+kservice
+kxmlgui
+libkscreen
 libplasma
+libxcb
 plasma-activities
 plasma-workspace
 qcoro
 qt
+qt-declarative
 solid
-plasma-wayland-protocols
+systemd-libs
+wayland
+kinfocenter suggest for the Energy Information KCM
+power-profiles-daemon suggest power profiles support
+extra-cmake-modules make
+kdoctools make
+plasma-wayland-protocols make

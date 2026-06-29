@@ -1,2 +1,8 @@
+gcc-libs
+glibc
 ki18n
 qt
+extra-cmake-modules make
+python-build make
+python-setuptools make
+qt-tools make

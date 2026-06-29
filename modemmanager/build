@@ -1,9 +1,6 @@
 #!/bin/sh -e
 
-meson setup build       \
-    --prefix=/usr       \
-    --buildtype=release \
-    -D bash_completion=false \
+hokuto-meson build      \
     -D qrtr=false
 
 meson compile -C build

@@ -1,9 +1,30 @@
-kde-framework
-kwayland
+gcc-libs
+glibc
+kcmutils
+kconfig
+kcoreaddons
+kcrash
+kdeclarative
+kglobalaccel
+ki18n
+kiconthemes
+kio
+kio-fuse
+kirigami
 kirigami-addons
+kitemviews
+knotifications
 kpipewire
+kservice
+kstatusnotifieritem
+kwayland
+kwindowsystem
 libxkbcommon
+plasma-workspace
 qt
+qt-declarative
+wayland
 xdg-desktop-portal
-plasma-wayland-protocols
-
+extra-cmake-modules make
+plasma-wayland-protocols make
+wayland-protocols make

@@ -1,5 +1,7 @@
+acl
+gcc-libs
+glibc
 karchive
-kauth
 kbookmarks
 kcolorscheme
 kcompletion
@@ -21,3 +23,10 @@ libxslt
 qt
 solid
 util-linux
+kded suggest proxy management and cookie storage
+kdoctools suggest for the help kioslave
+kio-extras suggest extra protocols support (sftp, fish and more)
+kio-fuse suggest to mount remote filesystems via FUSE
+extra-cmake-modules make
+kdoctools make
+qt-tools make 

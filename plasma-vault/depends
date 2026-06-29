@@ -1,8 +1,21 @@
-kde-framework
-libplasma
+fuse3
+gcc-libs
+glibc
+gocryptfs
+kconfig
+kcoreaddons
+kdbusaddons
+ki18n
+kio
+kirigami
+kitemmodels
+kservice
+kwidgetsaddons
 libksysguard
+libplasma
 networkmanager-qt
 plasma-activities
 plasma-workspace
 qt
-
+qt-declarative
+extra-cmake-modules make

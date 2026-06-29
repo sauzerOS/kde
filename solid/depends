@@ -1,3 +1,13 @@
+gcc-libs
+glibc
+libimobiledevice
+libplist
 qt
+systemd-libs
 udisks2
 upower
+util-linux
+qt-declarative suggest QML bindings
+extra-cmake-modules make
+qt-declarative make
+qt-tools make 

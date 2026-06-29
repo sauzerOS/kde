@@ -1,2 +1,22 @@
-kde-framework
+breeze-cursors
+breeze-icons
+frameworkintegration
+gcc-libs
+glibc
+kcmutils
+kcolorscheme
+kconfig
+kcoreaddons
 kdecoration
+kguiaddons
+ki18n
+kiconthemes
+kirigami
+kwidgetsaddons
+kwindowsystem
+qt
+qt-declarative
+qt-svg
+breeze-gtk suggest Breeze widget style for GTK applications
+extra-cmake-modules make
+kirigami make

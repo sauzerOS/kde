@@ -1,2 +1,6 @@
-extra-cmake-modules
+gcc-libs
+glibc
 kdsoap
+qt
+extra-cmake-modules make
+qt-tools make

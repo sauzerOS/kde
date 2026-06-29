@@ -1,4 +1,7 @@
+gcc-libs
+glibc
 libglvnd
 mpv
 qt
-cmake make
+qt-declarative
+extra-cmake-modules make

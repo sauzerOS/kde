@@ -1,3 +1,6 @@
+attica
+gcc-libs
+glibc
 karchive
 kcmutils
 kconfig
@@ -7,4 +10,7 @@ kirigami
 kpackage
 kwidgetsaddons
 qt
+qt-declarative
 syndication
+extra-cmake-modules make
+qt-tools make

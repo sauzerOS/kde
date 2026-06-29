@@ -1,4 +1,10 @@
+gcc-libs
+glibc
 kcoreaddons
 knotifications
 kwidgetsaddons
 qt
+extra-cmake-modules make
+python-build make
+python-setuptools make
+qt-tools make

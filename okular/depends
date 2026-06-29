@@ -1,10 +1,39 @@
 discount
 djvulibre
-ebook-tools
-kde-framework
+freetype
+gcc-libs
+glibc
+karchive
+kbookmarks
+kcolorscheme
+kcompletion
+kconfig
+kconfigwidgets
+kcoreaddons
+kcrash
+ki18n
+kiconthemes
+kio
+kparts
+ktextwidgets
+kwallet
+kwidgetsaddons
+kwindowsystem
+kxmlgui
+libkexiv2
 libspectre
+libtiff
 phonon
 poppler
-qca
+purpose
 qt
-unrar
+qt-declarative
+qt-speech
+qt-svg
+threadweaver
+zlib-ng
+ebook-tools suggest mobi and epub support
+unrar suggest Comic Book Archive support
+ebook-tools make
+extra-cmake-modules make
+kdoctools make 

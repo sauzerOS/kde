@@ -1,1 +1,12 @@
+gcc-libs
+glibc
 qt
+qt-charts suggest Feedback console
+qt-declarative suggest QML bindings
+qt-svg suggest Feedback console
+clang make
+extra-cmake-modules make
+qt-charts make
+qt-declarative make
+qt-svg make
+qt-tools make 

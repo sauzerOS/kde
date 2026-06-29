@@ -1,2 +1,8 @@
+gcc-libs
+glibc
 kwindowsystem
 qt
+extra-cmake-modules make
+python-build make
+python-setuptools make
+qt-tools make 

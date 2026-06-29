@@ -1,4 +1,22 @@
-kde-framework
 alsa-lib
+bash
+gcc-libs
+glibc
+kconfig
+kconfigwidgets
+kcoreaddons
+kcrash
+kdbusaddons
+kglobalaccel
+ki18n
+knotifications
+kstatusnotifieritem
+kwidgetsaddons
+kwindowsystem
+kxmlgui
 libcanberra
+libpulse
+qt
+solid
+extra-cmake-modules make
 kdoctools make

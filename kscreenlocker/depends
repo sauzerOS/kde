@@ -1,5 +1,30 @@
-libplasma
-kde-framework
+gcc-libs
+glibc
+kcmutils
+kconfig
+kcoreaddons
+kcrash
+kdeclarative
+kglobalaccel
+ki18n
+kidletime
+kio
+kirigami
+knotifications
+kpackage
+ksvg
+kwindowsystem
+kxmlgui
 layer-shell-qt
 libkscreen
-
+libplasma
+libx11
+libxcb
+libxi
+pam
+qt
+qt-declarative
+wayland
+xcb-util-keysyms
+extra-cmake-modules make
+kdoctools make

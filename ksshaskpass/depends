@@ -1,4 +1,9 @@
-kde-framework
-kwallet
+gcc-libs
+glibc
+kcoreaddons
+ki18n
+kwidgetsaddons
 qt
 qtkeychain
+extra-cmake-modules make
+kdoctools make

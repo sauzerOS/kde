@@ -1,2 +1,13 @@
+gcc-libs
+glibc
+libx11
 qt
 wayland
+qt-declarative suggest QML bindings
+extra-cmake-modules make
+plasma-wayland-protocols make
+python-build make
+python-setuptools make
+qt-declarative make
+qt-tools make
+wayland-protocols make 

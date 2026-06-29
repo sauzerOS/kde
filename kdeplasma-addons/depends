@@ -1,11 +1,42 @@
-corrosion
-kde-framework
+gcc-libs
+glibc
+icu
+kauth
+kcmutils
+kconfig
+kcoreaddons
+kdbusaddons
+kdeclarative
+kglobalaccel
+kguiaddons
+kholidays
+ki18n
+kiconthemes
+kio
 kirigami
 kirigami-addons
+kitemmodels
+kjobwidgets
+knewstuff
+knotifications
+kpackage
+krunner
+kservice
+ksvg
+kunitconversion
+kwidgetsaddons
+kwin
+kwindowsystem
+kxmlgui
 libplasma
 plasma-workspace
-plasma5support
+qt-5compat
 qt
+qt-declarative
+qt-quick3d
 sonnet
-networkmanager-qt
-cmake make
+systemd-libs
+networkmanager-qt suggest POTD wallpaper
+corrosion make
+extra-cmake-modules make
+networkmanager-qt make

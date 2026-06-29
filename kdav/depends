@@ -1,4 +1,8 @@
+gcc-libs
+glibc
 kcoreaddons
-kio
 ki18n
+kio
 qt
+extra-cmake-modules make
+qt-tools make

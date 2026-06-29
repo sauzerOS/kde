@@ -1,3 +1,5 @@
+gcc-libs
+glibc
 karchive
 kauth
 kcodecs
@@ -14,5 +16,10 @@ kparts
 kwidgetsaddons
 kxmlgui
 qt
+qt-declarative
+qt-speech
 sonnet
 syntax-highlighting
+git support git integration
+extra-cmake-modules make
+qt-tools make

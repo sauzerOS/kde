@@ -1,5 +1,9 @@
 curl
+gcc-libs
+glibc
+gmp
 icu
 libxml2
+mpfr
 readline
 intltool make

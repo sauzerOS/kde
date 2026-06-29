@@ -1,7 +1,11 @@
+gcc-libs
+glibc
 kcodecs
 kcolorscheme
-ki18n
 kconfig
 kcoreaddons
+ki18n
 kwidgetsaddons
 qt
+extra-cmake-modules make
+qt-tools make

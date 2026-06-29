@@ -1,3 +1,7 @@
-kcoreaddons 
+gcc-libs
+glibc
+kcoreaddons
 ki18n
 qt
+extra-cmake-modules make
+qt-tools make

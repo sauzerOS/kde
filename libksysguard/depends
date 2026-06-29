@@ -1,1 +1,24 @@
-kde-framework
+gcc-libs
+glibc
+kauth
+kconfig
+kcoreaddons
+kdeclarative
+ki18n
+kirigami
+kitemmodels
+knewstuff
+kpackage
+kquickcharts
+kservice
+libdrm
+libnl
+libpcap
+lm-sensors
+qt-5compat
+qt
+qt-declarative
+solid
+systemd-libs
+extra-cmake-modules make
+qt-tools make

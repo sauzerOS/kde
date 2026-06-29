@@ -1,2 +1,8 @@
+gcc-libs
+glibc
 kcoreaddons
+libx11
 qt
+drkonqi suggest KDE crash handler application
+extra-cmake-modules make
+qt-tools make

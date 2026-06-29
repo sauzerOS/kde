@@ -1,10 +1,17 @@
-qt
-kwindowsystem
-kcoreaddons
+gcc-libs
+glibc
 kconfig
+kcoreaddons
 kcrash
+kdbusaddons
 kfilemetadata
-kio
 ki18n
+kidletime
+kio
 lmdb
+qt
 solid
+qt-declarative suggest QML bindings
+extra-cmake-modules make
+kdoctools make
+qt-tools make 

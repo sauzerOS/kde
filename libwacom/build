@@ -1,8 +1,6 @@
 #!/bin/sh -e
 
-meson setup build         \
-      --prefix=/usr       \
-      --buildtype=release \
+hokuto-meson setup build  \
       -D tests=disabled
 
 meson compile -C build

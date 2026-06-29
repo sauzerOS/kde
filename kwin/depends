@@ -1,11 +1,70 @@
-kde-framework
+aurorae
+breeze
+gcc-libs
+glibc
+iio-sensor-proxy
+kauth
+kcmutils
+kcolorscheme
+kconfig
+kcoreaddons
+kcrash
+kdbusaddons
+kdeclarative
 kdecoration
-libplasma
-libdisplay-info
-pipewire
-plasma-activities
-qt
-krunner
-plasma-wayland-protocols
+kglobalaccel
 kglobalacceld
+kguiaddons
+ki18n
+kidletime
+kirigami
+kitemmodels
+knewstuff
+knighttime
+knotifications
+kpackage
+kquickcharts
 kscreenlocker
+kservice
+ksvg
+kwayland
+kwidgetsaddons
+kwindowsystem
+kxmlgui
+lcms2
+libcanberra
+libdisplay-info
+libdrm
+libei
+libepoxy
+libevdev
+libgcc
+libinput
+libpipewire
+libplasma
+libxcb
+libxcvt
+libxkbcommon
+mesa
+milou
+plasma-activities
+qt-5compat
+qt-base
+qt-declarative
+qt-svg
+qt-tools
+systemd-libs
+vulkan-icd-loader
+wayland
+wireplumber
+xcb-util-keysyms
+xcb-util-wm
+plasma-keyboard suggest virtual keyboard
+extra-cmake-modules make
+kdoctools make
+krunner make
+plasma-wayland-protocols make
+python make
+vulkan-headers make
+wayland-protocols make
+xwayland make

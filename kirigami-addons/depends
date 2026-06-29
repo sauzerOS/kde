@@ -1,2 +1,18 @@
-kde-framework
-vulkan-loader
+gcc-libs
+glibc
+kcolorscheme
+kconfig
+kcoreaddons
+kcrash
+kglobalaccel
+kguiaddons
+ki18n
+kiconthemes
+kirigami
+kitemmodels
+ksvg
+qt
+qt-declarative
+qt-multimedia
+sonnet
+extra-cmake-modules make

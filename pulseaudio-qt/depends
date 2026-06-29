@@ -1,3 +1,5 @@
-kde-framework
-pulseaudio
-cmake make
+gcc-libs
+glibc
+libpulse
+qt
+extra-cmake-modules make 

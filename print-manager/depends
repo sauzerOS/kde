@@ -1,4 +1,21 @@
-kde-framework
-cups
+gcc-libs
+glibc
+kcmutils
+kconfig
+kcoreaddons
+kdbusaddons
+kdeclarative
+ki18n
+kio
+kirigami
+kirigami-addons
+kitemmodels
+knotifications
+kwidgetsaddons
+kwindowsystem
+libcups
 libplasma
 qt
+qt-declarative
+extra-cmake-modules make
+kdoctools make

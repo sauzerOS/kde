@@ -1,3 +1,6 @@
+bash
+gcc-libs
+glibc
 kauth
 kcmutils
 kconfig
@@ -10,10 +13,14 @@ kpackage
 kservice
 kwindowsystem
 layer-shell-qt
-libplasma
+libkscreen
 libplasma
 libxau
+pam
 plasma-workspace
+qt-5compat
 qt
-cmake make
+qt-declarative
+systemd-libs
 extra-cmake-modules make
+qt-tools make

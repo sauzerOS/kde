@@ -1,4 +1,8 @@
+gcc-libs
+glibc
 kcodecs
 kconfig
 kwidgetsaddons
 qt
+extra-cmake-modules make
+qt-tools make

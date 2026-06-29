@@ -1,12 +1,58 @@
+aurorae
+breeze
+gcc-libs
+glibc
+kauth
+kcmutils
+kcolorscheme
+kconfig
+kcoreaddons
+kcrash
+kdeclarative
 kdecoration
-kde-framework
+kglobalaccel
 kglobalacceld
+kguiaddons
+ki18n
+kirigami
+kitemmodels
+knewstuff
 knighttime
+knotifications
+kpackage
+kquickcharts
 kscreenlocker
+kservice
+ksvg
+kwidgetsaddons
+kwindowsystem
+kxmlgui
+little-cms
 libcanberra
 libdisplay-info
+libdrm
+libepoxy
+libgcc
 libplasma
+libx11
+libxcb
+libxi
 libxkbcommon
-little-cms
+mesa
 plasma-activities
-plasma-wayland-protocols
+qt-5compat
+qt
+qt-declarative
+qt-sensors
+qt-svg
+qt-tools
+systemd-libs
+wayland
+xcb-util-cursor
+xcb-util-keysyms
+xcb-util-wm
+extra-cmake-modules make
+kdoctools make
+plasma-wayland-protocols make
+python make
+wayland-protocols make 

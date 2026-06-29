@@ -1,7 +1,16 @@
-kde-framework
+gcc-libs
+glibc
+kcoreaddons
+kcrash
+ki18n
+kio
 libksysguard
 lm-sensors
 qt
 solid
-libnl
-networkmanager-qt
+libnl suggest network usage monitor
+networkmanager-qt suggest network usage monitor
+systemd-libs suggest GPU monitor
+extra-cmake-modules make
+libnl make
+networkmanager-qt make 

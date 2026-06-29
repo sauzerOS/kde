@@ -1,1 +1,7 @@
+gcc-libs
+glibc
 qt
+qt-declarative suggest QML bindings
+extra-cmake-modules make
+qt-declarative make
+qt-tools make

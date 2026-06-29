@@ -1,2 +1,8 @@
+gcc-libs
+glibc
 kirigami
 qt
+qt-declarative
+extra-cmake-modules make
+qt-shadertools make
+qt-tools make 

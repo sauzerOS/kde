@@ -1,8 +1,41 @@
-kde-framework
+bash
+gcc-libs
+glibc
+karchive
+kcmutils
+kconfig
+kcoreaddons
+kdbusaddons
+kdnssd
+kdsoap
 kdsoap-ws-discovery-client
-libproxy
-plasma-activities-stats
-qcoro
+ki18n
+kio
+knotifications
+kservice
+kwidgetsaddons
+libimobiledevice
 libkexiv2
+libmtp
+libplist
+libproxy
+libssh2
 libtirpc
-samba
+libxcursor
+plasma-activities
+qt
+qt-svg
+smbclient
+solid
+syntax-highlighting
+kimageformats suggest thumbnails for additional image formats
+perl suggest info kioslave
+plasma-activities-stats suggest recently used kioslave
+qt-imageformats suggest thumbnails for additional image formats
+taglib suggest audio file thumbnails
+extra-cmake-modules make
+gperf make
+kdoctools make
+plasma-activities-stats make
+qcoro make
+taglib make 

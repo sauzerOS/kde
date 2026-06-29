@@ -1,1 +1,7 @@
-qt
+python-jinja2
+python-yaml
+python-build make
+python-installer make
+python-setuptools make
+python-wheel make
+qt make 

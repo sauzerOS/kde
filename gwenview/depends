@@ -1,5 +1,7 @@
 baloo
 exiv2
+gcc-libs
+glibc
 kcolorscheme
 kcompletion
 kconfig
@@ -11,7 +13,6 @@ kguiaddons
 ki18n
 kiconthemes
 kimageannotator
-kimageformats
 kio
 kitemmodels
 kitemviews
@@ -28,7 +29,11 @@ libx11
 plasma-activities
 purpose
 qt
+qt-multimedia
+qt-svg
 solid
 wayland
+kimageformats suggest support for xcf, exr, psd, and more image formats
 extra-cmake-modules make
-wayland-protocols make
+kdoctools make
+wayland-protocols make 

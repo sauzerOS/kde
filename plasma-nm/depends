@@ -1,12 +1,36 @@
-kde-framework
-networkmanager
-modemmanager-qt
+gcc-libs
+glib
+glibc
+kcmutils
+kcolorscheme
+kcompletion
+kconfig
+kcoreaddons
+kdbusaddons
+kdeclarative
+ki18n
+kio
+kirigami
+kirigami-addons
+kjobwidgets
+knotifications
+kquickcharts
+kservice
+ksvg
+kwidgetsaddons
+kwindowsystem
+libnm
 libplasma
+modemmanager-qt
 networkmanager-qt
+openssl
 plasma-workspace
 prison
-qca
 qcoro
 qt
+qt-declarative
+qtkeychain
 solid
-
+openconnect suggest Cisco AnyConnect VPN plugin
+extra-cmake-modules make
+openconnect make

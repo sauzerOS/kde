@@ -1,7 +1,8 @@
-gcc
+gcc-libs
 glibc
 kconfig
 kirigami
 opencv
 qt
-extra-cmake-modules make
+qt-declarative
+extra-cmake-modules make 

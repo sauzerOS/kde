@@ -1,4 +1,19 @@
-kde-framework
+gcc-libs
+glibc
+kauth
+kcmutils
+kconfig
+kcoreaddons
+kdbusaddons
+kdeclarative
+ki18n
+kinfocenter
+kio
+kirigami
+knotifications
+kservice
 qt
+qt-declarative
 smartmontools
 solid
+extra-cmake-modules make 

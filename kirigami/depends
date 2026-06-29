@@ -1,1 +1,9 @@
+gcc-libs
+glibc
+libgomp
 qt
+qt-declarative
+qt-svg
+extra-cmake-modules make
+qt-shadertools make
+qt-tools make 

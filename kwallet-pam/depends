@@ -1,4 +1,7 @@
+bash
+glibc
 kwallet
 libgcrypt
 pam
 socat
+extra-cmake-modules make

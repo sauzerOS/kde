@@ -1,2 +1,11 @@
+gcc-libs
+glibc
 qt
-aspell
+aspell suggest spell checking via aspell
+hunspell suggest spell checking via hunspell
+qt-declarative suggest QML bindings
+aspell make
+extra-cmake-modules make
+hunspell make
+qt-declarative make
+qt-tools make 

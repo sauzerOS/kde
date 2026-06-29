@@ -1,4 +1,7 @@
-gpgme
+gcc-libs
+glib
+glibc
+gpgmepp
 kcolorscheme
 kconfig
 kcoreaddons
@@ -8,7 +11,13 @@ ki18n
 knotifications
 kwidgetsaddons
 kwindowsystem
+libgcc
 libgcrypt
 libsecret
 qca
 qt
+kwalletmanager suggest Configuration GUI
+extra-cmake-modules make
+kdoctools make
+kservice make
+qt-tools make 

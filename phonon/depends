@@ -1,5 +1,10 @@
-cmake
-extra-cmake-modules
-glib
+gcc-libs
+glibc
+libpulse
+#phonon-backend-vlc
+qt-5compat
 qt
-pulseaudio
+pulseaudio suggest PulseAudio support
+qt-tools suggest Designer plugin
+extra-cmake-modules make
+qt-tools make

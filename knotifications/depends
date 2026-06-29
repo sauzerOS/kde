@@ -1,3 +1,11 @@
+gcc-libs
+glibc
 kconfig
 libcanberra
 qt
+qt-declarative suggest QML bindings
+extra-cmake-modules make
+python-build make
+python-setuptools make
+qt-declarative make
+qt-tools make 

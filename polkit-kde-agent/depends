@@ -1,3 +1,14 @@
-kde-framework
+gcc-libs
+glibc
+kcoreaddons
+kcrash
+kdbusaddons
+ki18n
+kirigami
+knotifications
+kwindowsystem
 polkit-qt
 qt
+qt-declarative
+extra-cmake-modules make
+kdoctools make

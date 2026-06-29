@@ -1,6 +1,10 @@
+gcc-libs
+glibc
 kconfig
 kcoreaddons
 kcrash
 kdbusaddons
 kservice
 qt
+extra-cmake-modules make
+kdoctools make

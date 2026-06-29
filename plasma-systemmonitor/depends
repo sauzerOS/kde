@@ -1,5 +1,23 @@
-kde-framework
+gcc-libs
+glibc
+kconfig
+kcoreaddons
+kcrash
+kdbusaddons
+kdeclarative
+kglobalaccel
+ki18n
+kiconthemes
+kio
 kirigami
 kirigami-addons
+kitemmodels
+knewstuff
+kquickcharts
+kservice
+ksystemstats
+kwindowsystem
 libksysguard
 qt
+qt-declarative
+extra-cmake-modules make 

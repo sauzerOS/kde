@@ -1,6 +1,18 @@
-kde-framework
+bash
+gcc-libs
+glib
+glibc
+kcolorscheme
+kconfig
+kcoreaddons
+kdbusaddons
 kdecoration
+kguiaddons
+kwindowsystem
 qt
+qt-svg
 xdg-desktop-portal-gtk
-gtk+3
-sassc
+gtk+3 suggest GTK3 apps support
+extra-cmake-modules make
+gtk+3 make
+sassc make 

@@ -1,2 +1,11 @@
+gcc-libs
+glibc
 qt
+systemd-libs
+util-linux
+qt-declarative suggest QML bindings
 extra-cmake-modules make
+python-build make
+python-setuptools make
+qt-declarative make
+qt-tools make 

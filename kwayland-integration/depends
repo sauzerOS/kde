@@ -1,2 +1,6 @@
+gcc-libs
+glibc
 wayland
-plasma-wayland-protocols
+extra-cmake-modules make
+plasma-wayland-protocols make
+wayland-protocols make

@@ -1,1 +1,10 @@
-breeze
+gcc-libs
+glibc
+kcolorscheme
+kconfig
+kguiaddons
+kiconthemes
+kirigami
+qt
+qt-declarative
+extra-cmake-modules make

@@ -1,2 +1,9 @@
-kde-framework
+gcc-libs
+glibc
+kcoreaddons
+kdbusaddons
+knotifications
+kpty
 qt
+extra-cmake-modules make
+kdoctools make

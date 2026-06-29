@@ -1,2 +1,28 @@
-kde-framework
+gcc-libs
+glibc
+kcolorscheme
+kconfig
+kcoreaddons
+kglobalaccel
+kguiaddons
+ki18n
+kiconthemes
+kio
+kirigami
+knotifications
+kpackage
+ksvg
+kwidgetsaddons
+kwindowsystem
+libglvnd
+libx11
+libxcb
 plasma-activities
+qt-5compat
+qt
+qt-declarative
+wayland
+extra-cmake-modules make
+kdoctools make
+plasma-wayland-protocols make
+wayland-protocols make 

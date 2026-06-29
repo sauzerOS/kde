@@ -1,4 +1,4 @@
-extra-cmake-modules
+glibc
 qt
-libxml2
-python-lxml
+extra-cmake-modules make
+python-lxml make

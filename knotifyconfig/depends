@@ -1,5 +1,9 @@
+gcc-libs
+glibc
 kconfig
 ki18n
 kio
 libcanberra
 qt
+extra-cmake-modules make
+qt-tools make

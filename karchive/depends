@@ -1,1 +1,10 @@
-qt
+bzip2
+gcc-libs
+glibc
+openssl
+qt6
+xz
+zlib-ng
+zstd
+extra-cmake-modules make
+qt-tools make

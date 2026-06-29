@@ -1,18 +1,111 @@
 accountsservice
-appstream
-kde-framework
+appstream-qt
+bash
+dbus
+fontconfig
+freetype
+gcc-libs
+glibc
 icu
+kactivitymanagerd
+karchive
+kauth
+kbookmarks
+kcmutils
+kcolorscheme
+kcompletion
+kconfig
+kconfigwidgets
+kcoreaddons
+kcrash
+kdbusaddons
+kde-cli-tools
+kdeclarative
+kded
+kglobalaccel
+kguiaddons
+kholidays
+ki18n
+kiconthemes
+kidletime
+kio
+kio-extras
+kio-fuse
+kirigami
+kirigami-addons
+kitemmodels
+kjobwidgets
+knewstuff
+knighttime
+knotifications
+kpackage
+kparts
+kpipewire
+kquickcharts
+krunner
+kscreenlocker
+kservice
+kstatusnotifieritem
+ksvg
+ksystemstats
+ktexteditor
+ktextwidgets
+kuserfeedback
+kwallet
+kwayland
+kwidgetsaddons
 kwin
-kwin-x11
+kwindowsystem
+kxmlgui
+layer-shell-qt
+libcanberra
+libice
+libkexiv2
+libksysguard
 libplasma
+libqalculate
+libsm
+libx11
+libxau
+libxcb
+libxcrypt
+libxcursor
+libxfixes
+libxft
+libxtst
 milou
-networkmanager-qt
+ocean-sound-theme
 plasma-activities
 plasma-activities-stats
 plasma-integration
-plasma5support
 prison
-qcoro
-ocean-sound-theme
-phonon
+qt-5compat
+qt
+qt-declarative
+qt-location
+qt-positioning
+qt-svg
+qt-tools
+qt-virtualkeyboard
 solid
+systemd-libs
+wayland
+xcb-util
+xcb-util-cursor
+xcb-util-image
+xcb-util-wm
+xrdb
+xwayland
+zlib-ng
+baloo suggest Baloo search runner
+kwayland-integration suggest Wayland integration for Qt5 applications
+kwin-x11 suggest X session window manager
+networkmanager-qt suggest IP based geolocation
+plasma-workspace-wallpapers suggest additional wallpapers
+xdg-desktop-portal-gtk suggest sync font settings to Flatpak apps
+baloo make
+extra-cmake-modules make
+kdoctools make
+networkmanager-qt make
+plasma-wayland-protocols make
+qcoro make

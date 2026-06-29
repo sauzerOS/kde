@@ -1,5 +1,27 @@
-7zip
-cpio
-kde-framework
+breeze-icons
+gcc-libs
+glibc
+kcolorscheme
+kcompletion
+kconfig
+kconfigwidgets
+kcoreaddons
+kcrash
+kdbusaddons
+kfilemetadata
+ki18n
+kio
+kjobwidgets
+kparts
+kpty
+kservice
+kwidgetsaddons
+kwindowsystem
+kxmlgui
 libarchive
-unrar
+libzip
+qt
+zlib-ng
+7zip suggest 7Z format support
+unrar suggest RAR decompression support
+extra-cmake-modules make

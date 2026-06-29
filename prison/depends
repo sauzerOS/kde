@@ -1,4 +1,11 @@
+gcc-libs
+glibc
+libdmtx
 qrencode
 qt
-libdmtx
+qt-multimedia
 zxing-cpp
+qt-declarative suggest QML bindings
+extra-cmake-modules make
+qt-declarative make
+qt-tools make 

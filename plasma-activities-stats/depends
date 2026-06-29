@@ -1,1 +1,7 @@
+gcc-libs
+glibc
+kconfig
 plasma-activities
+qt
+extra-cmake-modules make
+qt-tools make

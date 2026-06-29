@@ -1,6 +1,14 @@
-pam
+bash
+gcc-libs
+glibc
 libxau
 libxcb
+pam
 qt
+qt-declarative
+systemd-libs
+ttf-crosscore
 xlibre
-cmake make
+xauth
+extra-cmake-modules make
+qt-tools make 

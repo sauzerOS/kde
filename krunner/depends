@@ -1,6 +1,11 @@
+gcc-libs
+glibc
 kconfig
 kcoreaddons
 ki18n
 kitemmodels
 kwindowsystem
 qt
+extra-cmake-modules make
+kdoctools make
+qt-tools make 

@@ -1,8 +1,29 @@
-gdb make
-kde-framework
+elfutils
+gdb
+gcc-libs
+glibc
+kcmutils
+kconfig
+kcoreaddons
+kcrash
+ki18n
+kidletime
+kio
+kirigami
+kitemmodels
+knotifications
+kservice
+kstatusnotifieritem
+kwallet
+kwidgetsaddons
+kwindowsystem
 polkit-qt
+python
 python-psutil
 python-pygdbmi
 python-sentry-sdk
 qt
+qt-declarative
 syntax-highlighting
+systemd-libs
+extra-cmake-modules make 

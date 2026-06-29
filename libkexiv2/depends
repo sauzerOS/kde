@@ -1,2 +1,5 @@
-kde-framework
 exiv2
+gcc-libs
+glibc
+qt
+extra-cmake-modules make 

@@ -1,8 +1,14 @@
-qt
-ki18n
+gcc-libs
+glibc
 kcolorscheme
 kconfig
+ki18n
 kiconthemes
 knewstuff
 knotifications
 kwidgetsaddons
+qt
+appstream-qt suggest dependency resolving via AppStream
+appstream-qt make
+extra-cmake-modules make
+qt-tools make 

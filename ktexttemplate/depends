@@ -1,1 +1,6 @@
+gcc-libs
+glibc
 qt
+qt-declarative
+extra-cmake-modules make
+qt-tools make

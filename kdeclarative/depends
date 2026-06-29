@@ -1,6 +1,13 @@
+gcc-libs
+glibc
 kconfig
 kglobalaccel
 kguiaddons
-kwidgetsaddons
+kguiaddons
 ki18n
+kwidgetsaddons
 qt
+qt-declarative
+extra-cmake-modules make
+qt-shadertools make
+qt-tools make 

@@ -1,2 +1,20 @@
-kde-framework
+bash
+gcc-libs
+glibc
+kcmutils
+kcompletion
+kconfig
+kcoreaddons
+kdesu
+ki18n
+kiconthemes
+kio
+kparts
+kservice
+kwidgetsaddons
+kwindowsystem
 qt
+qt-svg
+kinfocenter suggest for kinfo
+extra-cmake-modules make
+kdoctools make

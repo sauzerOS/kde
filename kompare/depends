@@ -1,0 +1,17 @@
+gcc-libs
+glibc
+kcodecs
+kcompletion
+kconfig
+kconfigwidgets
+kcoreaddons
+ki18n
+kio
+kparts
+ktexteditor
+kwidgetsaddons
+kxmlgui
+libkomparediff2
+qt
+extra-cmake-modules make
+kdoctools make

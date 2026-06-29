@@ -1,4 +1,5 @@
 docbook-xsl
+gcc-libs
 glibc
 karchive
 libxml2
@@ -7,3 +8,4 @@ qt
 extra-cmake-modules make
 ki18n make
 perl-uri make
+qt-tools make

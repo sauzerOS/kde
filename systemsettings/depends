@@ -1,4 +1,26 @@
-kde-framework
+gcc-libs
+glibc
+kauth
+kcmutils
+kcolorscheme
+kconfig
+kconfigwidgets
+kcoreaddons
+kcrash
+kdbusaddons
+ki18n
+kio
 kirigami
+kitemmodels
+kitemviews
+kjobwidgets
+krunner
+kservice
+kwidgetsaddons
+kwindowsystem
+kxmlgui
 plasma-activities
 qt
+qt-declarative
+extra-cmake-modules make
+kdoctools make

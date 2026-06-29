@@ -1,9 +1,15 @@
+ebook-tools
 exiv2
 ffmpeg
-ki18n
+gcc-libs
+glibc
 karchive
 kcodecs
 kconfig
 kcoreaddons
+ki18n
 poppler
 qt
+taglib
+extra-cmake-modules make
+qt-tools make

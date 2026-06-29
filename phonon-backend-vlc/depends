@@ -1,2 +1,7 @@
+glibc
+libvlc
 phonon
-vlc
+qt
+vlc-plugins-base
+extra-cmake-modules make
+qt-tools make

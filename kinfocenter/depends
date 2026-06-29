@@ -1,7 +1,7 @@
+bash
 dmidecode
-lm-sensors
-libusb
-vulkan-tools
+gcc-libs
+glibc
 glu
 iproute2
 kauth
@@ -10,14 +10,24 @@ kconfig
 kcoreaddons
 kdeclarative
 ki18n
+kio
 kirigami
 kservice
 libdisplay-info
 libdrm
-pulseaudio
+libpulse
+libusb
+lm-sensors
+mesa-utils
 qt
+qt-declarative
 solid
+systemd-libs
 systemsettings
+vulkan-tools
+wayland-utils
 xdpyinfo
+plasma-disks suggest SMART devices health monitor
 extra-cmake-modules make
-vulkan-headers make
+kdoctools make
+vulkan-headers make 

@@ -1,2 +1,6 @@
-cmake make
+gcc-libs
+glibc
 qt
+qt-declarative
+qt-websockets
+cmake make

@@ -1,6 +1,11 @@
+gcc-libs
+glibc
 kcompletion
 kconfig
 ki18n
 kwidgetsaddons
 qt
+qt-speech
 sonnet
+extra-cmake-modules make
+qt-tools make

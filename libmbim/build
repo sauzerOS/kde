@@ -1,10 +1,6 @@
 #!/bin/sh -e
 
-meson setup build              \
-      --prefix=/usr            \
-      --buildtype=release      \
-      -D bash_completion=false \
-      -D man=false
+hokuto-meson build
 
 meson compile -C build
 meson install -C build --destdir=$1

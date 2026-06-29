@@ -1,3 +1,5 @@
+gcc-libs
+glibc
 kconfig
 kconfigwidgets
 kcoreaddons
@@ -8,3 +10,7 @@ kiconthemes
 kitemviews
 kwidgetsaddons
 qt
+extra-cmake-modules make
+python-build make
+python-setuptools make
+qt-tools make

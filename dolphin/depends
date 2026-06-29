@@ -1,5 +1,44 @@
-kde-framework
-phonon
-ffmpegthumbnailer
-rar
+baloo
+baloo-widgets
+gcc-libs
+glibc
+kbookmarks
+kcmutils
+kcodecs
+kcolorscheme
+kcompletion
+kconfig
+kconfigwidgets
+kcoreaddons
+kcrash
+kdbusaddons
+kfilemetadata
+kguiaddons
+ki18n
+kiconthemes
+kio
+kio-extras
+kjobwidgets
+knewstuff
+knotifications
+kparts
+kservice
+ktextwidgets
+kuserfeedback
+kwidgetsaddons
+kwindowsystem
+kxmlgui
+qt
+qt-multimedia
+solid
 dolphin-plugins optional
+ffmpegthumbs suggest video thumbnails
+filelight suggest detailed disk usage statistics
+kde-cli-tools suggest for editing file type options
+kdf suggest view disk usage
+kio-admin suggest for managing files as administrator
+kompare suggest comparing files menu action
+konsole suggest terminal panel
+purpose suggest share context menu
+extra-cmake-modules make
+kdoctools make

@@ -1,4 +1,23 @@
-kde-framework
+frameworkintegration
+gcc-libs
+glibc
+kcmutils
+kcolorscheme
+kcompletion
+kconfig
+kconfigwidgets
+kcoreaddons
 kdecoration
+kguiaddons
+ki18n
+kwidgetsaddons
+kwindowsystem
+libxcb
 qt
-libplasma
+qt-declarative
+extra-cmake-modules make
+frameworkintegration make
+kiconthemes make
+kirigami make
+kservice make
+libplasma make 

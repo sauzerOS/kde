@@ -1,6 +1,14 @@
-kde-framework
+ffmpeg
+gcc-libs
+glibc
+kcoreaddons
+ki18n
 libdrm
 libepoxy
+libgcc
+libpipewire
 libva
-pipewire
-wireplumber
+mesa
+qt
+qt-declarative
+extra-cmake-modules make

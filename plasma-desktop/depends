@@ -1,22 +1,77 @@
 attica
 baloo
-kde-framework
+gcc-libs
+glibc
+kbookmarks
+kcmutils
+kcodecs
+kcompletion
+kconfig
+kconfigwidgets
+kcoreaddons
+kcrash
+kdbusaddons
+kdeclarative
+kglobalaccel
+kguiaddons
+ki18n
+kiconthemes
+kio
+kirigami
 kirigami-addons
+kitemmodels
+kitemviews
+kjobwidgets
+kmenuedit
+knewstuff
+knotifications
+knotifyconfig
+kpackage
+kpipewire
+krunner
+kservice
+ksvg
+kwidgetsaddons
+kwindowsystem
+kxmlgui
+libcanberra
+libksysguard
 libplasma
 libwacom
+libx11
+libxcb
+libxcursor
+libxi
+libxkbcommon
+libxkbfile
 plasma-activities
 plasma-activities-stats
 plasma-workspace
 plasma5support
 polkit-kde-agent
 powerdevil
+qt-5compat
 qt
+qt-declarative
 sdl2-compat
 solid
 sonnet
-bluedevil
-kscreen
-plasma-nm
-plasma-pa
-xlibre
-xlibre-xf86-input-libinput
+systemd-libs
+systemsettings
+wayland
+xcb-util-keysyms
+xdg-user-dirs
+bluedevil suggest Bluetooth applet
+glib suggest kimpanel IBUS support
+ibus suggest kimpanel IBUS support
+kscreen suggest screen management
+plasma-nm suggest Network manager applet
+plasma-pa suggest Audio volume applet
+extra-cmake-modules make
+intltool make
+kaccounts-integration make
+kdoctools make
+libibus make
+wayland-protocols make
+xlibre-xf86-input-libinput make
+xlibre make

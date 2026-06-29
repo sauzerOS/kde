@@ -1,4 +1,15 @@
-kde-framework
+gcc-libs
+glibc
+kauth
+kcmutils
+kconfig
+kcoreaddons
+ki18n
 kirigami
 qt
-iproute2
+qt-declarative
+iproute2 suggest netstat backend
+python suggest ufw backend
+ufw suggest ufw backend
+extra-cmake-modules make
+python make
