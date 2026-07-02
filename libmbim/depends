@@ -1,8 +1,0 @@
-bash
-gcc-libs
-glib
-glibc
-bash-completion make
-gobject-introspection make
-help2man make
-meson make 
