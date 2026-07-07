@@ -1,5 +1,4 @@
 curl
-gcc-libs
 glibc
 gmp
 icu
