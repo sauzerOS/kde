@@ -1,6 +1,5 @@
 bash
 dmidecode
-gcc-libs
 glibc
 glu
 iproute2
@@ -26,7 +25,7 @@ systemd-libs
 systemsettings
 vulkan-tools
 wayland-utils
-xdpyinfo
+xorg-xdpyinfo
 plasma-disks suggest SMART devices health monitor
 extra-cmake-modules make
 kdoctools make
