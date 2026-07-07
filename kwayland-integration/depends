@@ -1,4 +1,3 @@
-gcc-libs
 glibc
 wayland
 extra-cmake-modules make
