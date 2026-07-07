@@ -1,5 +1,4 @@
 acl
-gcc-libs
 glibc
 karchive
 kbookmarks
