@@ -1,6 +1,5 @@
 alsa-lib
 bash
-gcc-libs
 glibc
 kconfig
 kconfigwidgets
