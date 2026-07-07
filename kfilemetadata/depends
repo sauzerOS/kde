@@ -1,7 +1,6 @@
 ebook-tools
 exiv2
 ffmpeg
-gcc-libs
 glibc
 karchive
 kcodecs
