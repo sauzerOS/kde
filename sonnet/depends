@@ -1,4 +1,3 @@
-gcc-libs
 glibc
 qt
 aspell suggest spell checking via aspell
