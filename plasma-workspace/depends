@@ -4,7 +4,6 @@ bash
 dbus
 fontconfig
 freetype
-gcc-libs
 glibc
 icu
 kactivitymanagerd
