@@ -1,10 +1,10 @@
-gcc-libs
 glibc
 kcolorscheme
 kconfig
 kguiaddons
 kiconthemes
 kirigami
+libstdc++
 qt
 qt-declarative
 extra-cmake-modules make
