@@ -1,6 +1,7 @@
 ca-certificates
-gcc-libs
 glibc
+libgcc
+libstdc++
 nss
 qt-5compat
 qt
