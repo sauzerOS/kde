@@ -1,4 +1,3 @@
-gcc-libs
 glibc
 qt
 libx11 suggest XCB plugin
