@@ -1,5 +1,4 @@
 fuse3
-gcc-libs
 glibc
 gocryptfs
 kconfig
