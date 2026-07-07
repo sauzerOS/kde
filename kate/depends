@@ -1,5 +1,4 @@
 bash
-gcc-libs
 glibc
 gpgmepp
 karchive
