@@ -1,5 +1,4 @@
 ffmpeg
-gcc-libs
 glibc
 kcoreaddons
 ki18n
