@@ -1,5 +1,4 @@
 flatpak
-gcc-libs
 glib
 glibc
 kcmutils
