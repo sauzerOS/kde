@@ -1,6 +1,5 @@
 elfutils
 gdb
-gcc-libs
 glibc
 kcmutils
 kconfig
