@@ -1,5 +1,4 @@
 docbook-xsl
-gcc-libs
 glibc
 karchive
 libxml2
