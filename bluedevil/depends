@@ -1,5 +1,4 @@
 bluez-qt
-gcc-libs
 glibc
 kcmutils
 kconfig
