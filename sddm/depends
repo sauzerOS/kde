@@ -1,4 +1,5 @@
 bash
+fonts-croscore
 glibc
 libxau
 libxcb
@@ -6,8 +7,7 @@ pam
 qt
 qt-declarative
 systemd-libs
-ttf-crosscore
 xlibre
-xauth
+xorg-xauth
 extra-cmake-modules make
 qt-tools make 
