@@ -7,7 +7,7 @@ knewstuff
 knotifications
 kwidgetsaddons
 qt
-appstream-qt suggest dependency resolving via AppStream
-appstream-qt make
+appstream suggest dependency resolving via AppStream
+appstream make
 extra-cmake-modules make
 qt-tools make 
