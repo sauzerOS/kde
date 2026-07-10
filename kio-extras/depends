@@ -27,6 +27,7 @@ qt-svg
 smbclient
 solid
 syntax-highlighting
+libappimage suggest AppImage thumbnails
 kimageformats suggest thumbnails for additional image formats
 perl suggest info kioslave
 plasma-activities-stats suggest recently used kioslave
@@ -35,6 +36,7 @@ taglib suggest audio file thumbnails
 extra-cmake-modules make
 gperf make
 kdoctools make
+libappimage make
 plasma-activities-stats make
 qcoro make
 taglib make 
