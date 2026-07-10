@@ -1,0 +1,10 @@
+#!/bin/sh -e
+
+cmake -B build                 \
+  -D CMAKE_INSTALL_PREFIX=/usr \
+  -D BUILD_HTML_DOCS=OFF       \
+  -D BUILD_QTHELP_DOCS=OFF     \
+  -D BUILD_TESTING=OFF
+
+cmake --build build
+DESTDIR="${1}" cmake --install build

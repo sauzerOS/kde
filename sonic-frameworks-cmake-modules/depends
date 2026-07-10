@@ -1,0 +1,3 @@
+cmake
+python-requests make
+qt-tools make
