@@ -1,0 +1,23 @@
+glibc
+kcmutils
+kconfig
+kcrash
+kdbusaddons
+ki18n
+kimageformats
+kitemmodels
+ksvg
+libgcc
+libstdc++
+libx11
+libxcb
+libxi
+plasma5support
+qt
+qt-declarative
+sonic-frameworks-cmake-modules make
+sonic-frameworks-core-addons
+sonic-frameworks-quick-ui
+sonic-frameworks-windowsystem
+sonic-interface-libraries
+sonic-screen-library
