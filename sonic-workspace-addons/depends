@@ -1,0 +1,42 @@
+glibc
+icu
+kcmutils
+kconfig
+kdbusaddons
+kdeclarative
+kholidays
+ki18n
+kiconthemes
+kirigami-addons
+kitemmodels
+kjobwidgets
+knewstuff
+knotifications
+kpackage
+kservice
+ksvg
+kunitconversion
+kwidgetsaddons
+kxmlgui
+libgcc
+libstdc++
+qt-5compat
+qt
+qt-declarative
+qt-quick3d
+sonic-frameworks-auth
+sonic-frameworks-core-addons
+sonic-frameworks-gui-addons
+sonic-frameworks-io
+sonic-frameworks-keybind
+sonic-frameworks-quick-ui
+sonic-frameworks-runner
+sonic-frameworks-windowsystem
+sonic-interface-libraries
+sonic-win
+sonic-workspace
+sonnet
+systemd-libs
+networkmanager-qt make
+qt-webengine make
+sonic-frameworks-cmake-modules make
