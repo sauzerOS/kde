@@ -1,0 +1,37 @@
+glibc
+karchive
+kcmutils
+kconfig
+kdbusaddons
+kdnssd
+kdsoap
+kdsoap-ws-discovery-client
+ki18n
+knotifications
+kservice
+kwidgetsaddons
+libgcc
+libimobiledevice
+libkexiv2
+libmtp
+libplist
+libproxy
+libstdc++
+libtirpc
+libxcursor
+qt
+qt-svg
+ripgrep
+smbclient
+solid
+sonic-activities
+sonic-frameworks-core-addons
+sonic-frameworks-io
+syntax-highlighting
+gperf make
+libappimage make
+plasma-activities-stats make
+qcoro make
+sonic-frameworks-cmake-modules make
+sonic-frameworks-doctools make
+taglib make
