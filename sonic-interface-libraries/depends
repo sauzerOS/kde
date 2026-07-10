@@ -1,0 +1,26 @@
+glibc
+kcolorscheme
+kconfig
+ki18n
+kiconthemes
+knotifications
+kpackage
+ksvg
+kwidgetsaddons
+libgcc
+libglvnd
+libstdc++
+libx11
+libxcb
+qt
+qt-5compat
+qt-declarative
+sonic-activities
+sonic-frameworks-core-addons
+sonic-frameworks-gui-addons
+sonic-frameworks-io
+sonic-frameworks-keybind
+sonic-frameworks-quick-ui
+sonic-frameworks-windowsystem
+sonic-frameworks-cmake-modules make
+sonic-frameworks-doctools make
