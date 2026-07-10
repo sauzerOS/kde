@@ -1,0 +1,11 @@
+glibc
+kconfig
+ki18n
+kitemmodels
+libstdc++
+qt
+sonic-frameworks-core-addons
+sonic-frameworks-windowsystem
+qt-tools make
+sonic-frameworks-cmake-modules make
+sonic-frameworks-doctools make
