@@ -1,0 +1,9 @@
+glibc
+libstdc++
+libx11
+qt
+python-build make
+python-setuptools make
+qt-declarative make
+qt-tools make
+sonic-frameworks-cmake-modules make
