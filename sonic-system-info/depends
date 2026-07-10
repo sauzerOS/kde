@@ -1,0 +1,33 @@
+aha
+clinfo
+dmidecode
+glibc
+glu
+iproute2
+kcmutils
+kconfig
+kdeclarative
+ki18n
+kservice
+libdisplay-info
+libdrm
+libpulse
+libusb
+lm-sensors
+mesa-utils
+qt
+qt-declarative
+solid
+sonic-frameworks-auth
+sonic-frameworks-core-addons
+sonic-frameworks-io
+sonic-frameworks-quick-ui
+systemd-libs
+systemsettings
+vulkan-tools
+wayland-utils
+xorg-xdpyinfo
+#fwupd make
+sonic-frameworks-cmake-modules make
+sonic-frameworks-doctools make
+vulkan-headers make
