@@ -1,0 +1,28 @@
+acl
+glibc
+karchive
+kbookmarks
+kcolorscheme
+kcompletion
+kconfig
+kcrash
+kdbusaddons
+ki18n
+kiconthemes
+kitemviews
+kjobwidgets
+kservice
+kwallet
+kwidgetsaddons
+libstdc++
+libxml2
+libxslt
+qt
+solid
+sonic-frameworks-core-addons
+sonic-frameworks-gui-addons
+sonic-frameworks-windowsystem
+util-linux-libs
+qt-tools make
+sonic-frameworks-cmake-modules make
+sonic-frameworks-doctools make
