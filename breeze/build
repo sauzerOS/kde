@@ -10,3 +10,7 @@ cmake -B build                            \
 
 cmake --build build
 DESTDIR=$1 cmake --install build
+
+# breeze-cursors
+_pick "$1" breeze-cursors usr/share/icons/Breeze_Light/cursors/
+_pick "$1" breeze-cursors usr/share/icons/breeze_cursors/cursors/
