@@ -1,0 +1,25 @@
+glibc
+kcmutils
+kconfig
+kdbusaddons
+ki18n
+kpackage
+kservice
+libstdc++
+libxau
+pam
+qt-5compat
+qt
+qt-declarative
+sonic-frameworks-auth
+sonic-frameworks-core-addons
+sonic-frameworks-io
+sonic-frameworks-quick-ui
+sonic-frameworks-windowsystem
+sonic-interface-libraries
+sonic-screen-library
+sonic-workspace
+systemd-libs
+xlibre
+qt-tools make
+sonic-frameworks-cmake-modules make
