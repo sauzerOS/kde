@@ -1,0 +1,9 @@
+glibc
+libgomp
+libstdc++
+qt
+qt-declarative
+qt-svg
+qt-shadertools make
+qt-tools make
+sonic-frameworks-cmake-modules make
