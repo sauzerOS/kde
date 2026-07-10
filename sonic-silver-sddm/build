@@ -1,0 +1,5 @@
+#!/bin/sh -e
+
+install -d "${1}/usr/share/sddm/themes"
+cp -rv Sonic-Silver "${1}/usr/share/sddm/themes"
+cp -rv Sonic-Silver-Light "${1}/usr/share/sddm/themes"
