@@ -1,0 +1,24 @@
+glibc
+kconfig
+kdeclarative
+ki18n
+kitemmodels
+knewstuff
+kpackage
+kquickcharts
+kservice
+libdrm
+libgcc
+libnl
+libpcap
+libstdc++
+lm-sensors
+qt
+qt-5compat
+qt-declarative
+solid
+sonic-frameworks-auth
+sonic-frameworks-core-addons
+sonic-frameworks-quick-ui
+qt-tools make
+sonic-frameworks-cmake-modules make
