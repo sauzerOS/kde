@@ -1,0 +1,10 @@
+glibc
+libstdc++
+libx11
+libxcb
+libxfixes
+qt
+xcb-util-keysyms
+qt-declarative make
+qt-tools make
+sonic-frameworks-cmake-modules make
