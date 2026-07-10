@@ -13,6 +13,6 @@ kservice
 kstatusnotifieritem
 kwidgetsaddons
 kxmlgui
-qt6-base
+qt
 extra-cmake-modules make
 kdoctools make

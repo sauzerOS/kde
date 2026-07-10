@@ -17,4 +17,4 @@ prison suggest QR code plugin
 extra-cmake-modules make
 intltool make
 prison make
-qt6-tools make 
+qt-tools make 

@@ -1,7 +1,7 @@
 bzip2
 glibc
 openssl
-qt6
+qt
 xz
 zlib-ng
 zstd
