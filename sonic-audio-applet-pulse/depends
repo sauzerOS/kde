@@ -1,0 +1,26 @@
+glib
+glibc
+kcmutils
+kconfig
+kdbusaddons
+kdeclarative
+ki18n
+kirigami-addons
+kitemmodels
+kstatusnotifieritem
+ksvg
+libcanberra
+libgcc
+libpulse
+libstdc++
+pulseaudio-qt
+pulse-native-provider
+qt
+qt-declarative
+sonic-frameworks-core-addons
+sonic-frameworks-keybind
+sonic-frameworks-quick-ui
+sonic-interface-libraries
+sonic-workspace
+sonic-frameworks-cmake-modules make
+sonic-frameworks-doctools make
