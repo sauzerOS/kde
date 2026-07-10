@@ -7,10 +7,10 @@ qt-5compat
 qt
 botan suggest botan plugin
 libgcrypt suggest gcrypt plugin
-cyrus-sasl suggest SASL plugin
+libsasl suggest SASL plugin
 openssl suggest SSL plugin
 botan make
 cmake make
 libgcrypt make
-cyrus-sasl make
+libsasl make
 openssl make
