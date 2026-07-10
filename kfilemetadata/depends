@@ -10,5 +10,7 @@ ki18n
 poppler
 qt
 taglib
+libappimage suggest AppImage extractor
 extra-cmake-modules make
+libappimage make
 qt-tools make
