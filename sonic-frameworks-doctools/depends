@@ -1,0 +1,11 @@
+docbook-xsl
+glibc
+karchive
+libstdc++
+libxml2
+libxslt
+qt
+ki18n make
+perl-uri make
+qt-tools make
+sonic-frameworks-cmake-modules make
