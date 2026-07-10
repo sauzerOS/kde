@@ -1,0 +1,12 @@
+#!/bin/sh -e
+
+cmake -B build                    \
+  -D CMAKE_INSTALL_LIBEXECDIR=lib \
+  -D GLIBC_LOCALE_GEN=OFF         \
+  -D BUILD_TESTING=OFF
+
+cmake --build build
+DESTDIR=$1 cmake --install build
+
+# sonic-x11-session
+_pick $1 sonic-x11-session /usr/share/xsessions/plasmax11.desktop
