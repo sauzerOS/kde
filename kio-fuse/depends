@@ -1,0 +1,7 @@
+fuse3
+glibc
+kcoreaddons
+kio
+libstdc++
+qt
+extra-cmake-modules make
