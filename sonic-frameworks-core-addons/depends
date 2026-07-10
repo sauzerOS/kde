@@ -1,0 +1,11 @@
+glibc
+libgcc
+libstdc++
+qt
+systemd-libs
+util-linux-libs
+python-build make
+python-setuptools make
+qt-declarative make
+qt-tools make
+sonic-frameworks-cmake-modules make
