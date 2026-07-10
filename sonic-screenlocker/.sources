@@ -1,0 +1,4 @@
+https://github.com/Sonic-DE/sonic-screenlocker/archive/refs/tags/${version}.tar.gz
+files/kde.pam
+files/kde-fingerprint.pam
+files/kde-smartcard.pam
