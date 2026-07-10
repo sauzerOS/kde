@@ -1,0 +1,6 @@
+glibc
+ki18n
+libgcc
+libstdc++
+qt
+sonic-frameworks-cmake-modules make
