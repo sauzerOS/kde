@@ -68,7 +68,6 @@ plasma-pa suggest Audio volume applet
 extra-cmake-modules make
 intltool make
 kdoctools make
-libibus make
 wayland-protocols make
 xlibre-xf86-input-libinput make
 xlibre make
