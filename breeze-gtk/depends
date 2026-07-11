@@ -1,3 +1,4 @@
 breeze make
 extra-cmake-modules make
+python-pycairo make
 sassc make 
