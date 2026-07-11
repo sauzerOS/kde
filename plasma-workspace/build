@@ -10,3 +10,6 @@ cmake -B build                            \
 
 cmake --build build
 DESTDIR=$1 cmake --install build
+
+# plasma-x11-session
+_pick $1 plasma-x11-session /usr/share/xsessions/plasmax11.desktop
