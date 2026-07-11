@@ -1,3 +1,4 @@
+fonts-noto
 glibc
 kcolorscheme
 kconfig
@@ -13,7 +14,6 @@ kwidgetsaddons
 kwindowsystem
 libxcb
 libxcursor
-unicode-fonts
 qqc2-breeze-style
 qqc2-desktop-style
 qt
