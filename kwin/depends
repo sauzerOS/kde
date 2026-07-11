@@ -48,7 +48,7 @@ mesa
 milou
 plasma-activities
 qt-5compat
-qt-base
+qt
 qt-declarative
 qt-svg
 qt-tools
