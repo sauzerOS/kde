@@ -94,7 +94,7 @@ xcb-util-cursor
 xcb-util-image
 xcb-util-wm
 xorg-xmessage
-xrdb
+xorg-xrdb
 xwayland
 zlib-ng
 baloo suggest Baloo search runner
