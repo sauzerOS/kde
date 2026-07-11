@@ -65,7 +65,7 @@ systemsettings
 xcb-util-keysyms
 xdg-user-dirs
 intltool make
-kaccounts-integration make
+#kaccounts-integration make
 libibus make
 #packagekit-qt6 make
 #scim make

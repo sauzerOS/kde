@@ -67,7 +67,6 @@ plasma-nm suggest Network manager applet
 plasma-pa suggest Audio volume applet
 extra-cmake-modules make
 intltool make
-kaccounts-integration make
 kdoctools make
 libibus make
 wayland-protocols make
