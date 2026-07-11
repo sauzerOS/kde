@@ -19,7 +19,7 @@ kstatusnotifieritem
 kwayland
 kwindowsystem
 libxkbcommon
-plasma-workspace
+plasma-workspace runtime
 qt
 qt-declarative
 wayland
