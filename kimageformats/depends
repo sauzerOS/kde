@@ -1,13 +1,11 @@
 glibc
 qt
 karchive suggest plugin for Krita and OpenRaster images
-libavif suggest AVIF format support
 libheif suggest HEIF format support
 libjxl suggest JPEG-XL format support
 openjpeg suggest JPEG 2000 format support
 extra-cmake-modules make
 karchive make
-libavif make
 libheif make
 libjxl make
 openjpeg make 
