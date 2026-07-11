@@ -4,6 +4,7 @@ libstdc++
 qt
 systemd-libs
 util-linux-libs
+pyside6 make
 python-build make
 python-setuptools make
 qt-declarative make

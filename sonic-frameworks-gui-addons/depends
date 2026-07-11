@@ -2,6 +2,7 @@ glibc
 libstdc++
 libx11
 qt
+pyside6 make
 python-build make
 python-setuptools make
 qt-declarative make
