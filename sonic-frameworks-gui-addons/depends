@@ -7,4 +7,5 @@ python-build make
 python-setuptools make
 qt-declarative make
 qt-tools make
+shiboken6-tools make
 sonic-frameworks-cmake-modules make
