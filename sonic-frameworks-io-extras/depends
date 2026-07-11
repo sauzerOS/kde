@@ -33,5 +33,4 @@ libappimage make
 plasma-activities-stats make
 qcoro make
 sonic-frameworks-cmake-modules make
-sonic-frameworks-doctools make
 taglib make
