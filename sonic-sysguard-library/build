@@ -6,4 +6,3 @@ cmake -B build                    \
 
 cmake --build build
 DESTDIR="${1}" cmake --install build
-setcap CAP_NET_RAW=+ep "${1}"/usr/lib/ksysguard/ksgrd_network_helper

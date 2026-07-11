@@ -25,4 +25,3 @@ sonic-frameworks-windowsystem
 util-linux-libs
 qt-tools make
 sonic-frameworks-cmake-modules make
-sonic-frameworks-doctools make
