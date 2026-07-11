@@ -1,5 +1,8 @@
 #!/bin/bash -e
 
+# build with opencv 5
+sed -e 's|OpenCV 4.7|OpenCV 5|' -i CMakeLists.txt
+
 cmake -B build \
   -D CMAKE_INSTALL_PREFIX=/usr
 
