@@ -38,5 +38,4 @@ sonic-workspace
 sonnet
 systemd-libs
 networkmanager-qt make
-qt-webengine make
 sonic-frameworks-cmake-modules make

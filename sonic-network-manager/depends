@@ -31,6 +31,4 @@ sonic-frameworks-quick-ui
 sonic-frameworks-windowsystem
 sonic-interface-libraries
 sonic-workspace
-openconnect make
-qt-webengine make
 sonic-frameworks-cmake-modules make
