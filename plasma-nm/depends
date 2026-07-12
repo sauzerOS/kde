@@ -33,3 +33,4 @@ solid
 openconnect suggest Cisco AnyConnect VPN plugin
 extra-cmake-modules make
 openconnect make
+qt-webengine make
