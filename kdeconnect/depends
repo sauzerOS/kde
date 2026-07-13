@@ -1,0 +1,40 @@
+dbus
+glib
+glibc
+kconfig
+kcoreaddons
+kcrash
+kdbusaddons
+kdeclarative
+kguiaddons
+ki18n
+kio
+kirigami
+kirigami-addons
+kitemmodels
+kjobwidgets
+knotifications
+kpeople
+kservice
+kstatusnotifieritem
+kwindowsystem
+libei
+libevdev
+libfakekey
+libstdc++
+libx11
+libxkbcommon
+libxtst
+modemmanager-qt
+openssl
+pulseaudio-qt
+qqc2-desktop-style
+qt
+qt-connectivity
+qt-declarative
+qt-multimedia
+solid
+wayland
+extra-cmake-modules make
+kpackage make
+wayland-protocols make
