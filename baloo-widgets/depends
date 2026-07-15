@@ -1,0 +1,13 @@
+glibc
+baloo
+kconfig
+kcoreaddons
+kfilemetadata
+ki18n
+kio
+kservice
+kwidgetsaddons
+libstdc++
+qt
+extra-cmake-modules make
+kdoctools make
