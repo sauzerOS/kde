@@ -1,0 +1,11 @@
+{
+  "url": "https://github.com/Sonic-DE/sonic-frameworks-io",
+  "category": "extra",
+  "description": "Resource and network access abstraction",
+  "info": "",
+  "license": "[\n  \"LGPL-2.0-only\",\n  \"LGPL-3.0-only\"\n]",
+  "tags": [
+    "kde",
+    "network"
+  ]
+}

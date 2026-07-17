@@ -1,0 +1,10 @@
+{
+  "url": "https://kde.org/",
+  "category": "extra",
+  "description": "FUSE interface for KIO",
+  "info": "",
+  "license": "GPL-3.0-or-later",
+  "tags": [
+    "kde"
+  ]
+}

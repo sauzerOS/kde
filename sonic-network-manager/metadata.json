@@ -1,0 +1,11 @@
+{
+  "url": "https://github.com/Sonic-DE/sonic-network-manager",
+  "category": "extra",
+  "description": "SonicDE applet written in QML for managing network connections",
+  "info": "",
+  "license": "[\n  \"GPL-2.0-or-later\"\n]",
+  "tags": [
+    "kde",
+    "network"
+  ]
+}

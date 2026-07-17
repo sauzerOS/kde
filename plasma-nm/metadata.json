@@ -1,0 +1,11 @@
+{
+  "url": "https://kde.org/plasma-desktop/",
+  "category": "extra",
+  "description": "Plasma applet written in QML for managing network connections",
+  "info": "",
+  "license": "GPL-2.0-or-later",
+  "tags": [
+    "kde",
+    "network"
+  ]
+}

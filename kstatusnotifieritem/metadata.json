@@ -1,0 +1,10 @@
+{
+  "url": "https://develop.kde.org/products/frameworks/",
+  "category": "extra",
+  "description": "Implementation of Status Notifier Items",
+  "info": "",
+  "license": "LGPL-2.0-or-later",
+  "tags": [
+    "kde"
+  ]
+}

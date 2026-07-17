@@ -1,0 +1,11 @@
+{
+  "url": "https://github.com/Sonic-DE/sonic-keybind-daemon",
+  "category": "extra",
+  "description": "Daemon providing Global Keyboard Shortcut (Accelerator) functionality",
+  "info": "",
+  "license": "[\n  \"LGPL-2.0-or-later\"\n]",
+  "tags": [
+    "kde",
+    "server"
+  ]
+}

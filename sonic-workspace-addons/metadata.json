@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Sonic-DE/sonic-workspace-addons",
+  "category": "extra",
+  "description": "All kind of addons to improve your SonicDE experience",
+  "info": "",
+  "license": "[\n  \"LGPL-2.0-or-later\"\n]",
+  "tags": [
+    "kde"
+  ]
+}

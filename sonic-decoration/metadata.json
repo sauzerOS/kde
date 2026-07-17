@@ -1,0 +1,11 @@
+{
+  "url": "https://github.com/Sonic-DE/sonic-decoration",
+  "category": "extra",
+  "description": "Plugin based library to create window decorations",
+  "info": "",
+  "license": "[\n  \"LGPL-2.0-or-later\"\n]",
+  "tags": [
+    "kde",
+    "library"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://develop.kde.org/products/frameworks/",
+  "category": "extra",
+  "description": "A barcode API to produce QRCode barcodes and DataMatrix barcodes",
+  "info": "",
+  "license": "MIT",
+  "tags": [
+    "kde"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://develop.kde.org/products/frameworks/",
+  "category": "extra",
+  "description": "Support for unit conversion",
+  "info": "",
+  "license": "LGPL-2.0-only",
+  "tags": [
+    "kde"
+  ]
+}

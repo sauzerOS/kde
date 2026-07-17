@@ -1,0 +1,10 @@
+{
+  "url": "https://develop.kde.org/products/frameworks/",
+  "category": "extra",
+  "description": "Support for application crash analysis and bug report from apps",
+  "info": "",
+  "license": "LGPL-2.0-only",
+  "tags": [
+    "kde"
+  ]
+}

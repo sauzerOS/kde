@@ -1,0 +1,12 @@
+{
+  "url": "https://kde.org/plasma-desktop/",
+  "category": "extra",
+  "description": "A tool for managing print jobs and printers",
+  "info": "",
+  "license": "LGPL-2.0-or-later",
+  "tags": [
+    "kde",
+    "print",
+    "utility"
+  ]
+}

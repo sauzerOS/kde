@@ -1,0 +1,10 @@
+{
+  "url": "https://develop.kde.org/products/frameworks/",
+  "category": "extra",
+  "description": "Breeze icon theme",
+  "info": "",
+  "license": "LGPL-2.1-only",
+  "tags": [
+    "kde"
+  ]
+}

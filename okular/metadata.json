@@ -1,0 +1,10 @@
+{
+  "url": "https://apps.kde.org/okular/",
+  "category": "extra",
+  "description": "Document Viewer",
+  "info": "",
+  "license": "GPL-2.0-or-later",
+  "tags": [
+    "kde"
+  ]
+}

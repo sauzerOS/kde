@@ -1,0 +1,11 @@
+{
+  "url": "https://www.kde.org/",
+  "category": "extra",
+  "description": "A library to manipulate pictures metadata",
+  "info": "",
+  "license": "GPL-2.0-or-later",
+  "tags": [
+    "kde",
+    "library"
+  ]
+}

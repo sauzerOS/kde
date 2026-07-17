@@ -1,0 +1,10 @@
+{
+  "url": "https://develop.kde.org/products/frameworks/",
+  "category": "extra",
+  "description": "Syntax highlighting engine for structured text and code",
+  "info": "",
+  "license": "MIT",
+  "tags": [
+    "kde"
+  ]
+}

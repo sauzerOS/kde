@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Sonic-DE/sonic-frameworks-keybind",
+  "category": "extra",
+  "description": "Add support for global workspace shortcuts",
+  "info": "",
+  "license": "[\n  \"LGPL-2.0-only\",\n  \"LGPL-3.0-only\"\n]",
+  "tags": [
+    "kde"
+  ]
+}

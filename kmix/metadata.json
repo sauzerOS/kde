@@ -1,0 +1,10 @@
+{
+  "url": "https://apps.kde.org/kmix/",
+  "category": "extra",
+  "description": "KDE volume control program",
+  "info": "",
+  "license": "GPL-2.0-or-later",
+  "tags": [
+    "kde"
+  ]
+}

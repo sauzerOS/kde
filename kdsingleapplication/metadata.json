@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/KDAB/KDSingleApplication",
+  "category": "extra",
+  "description": "KDAB's helper class for single-instance policy applications",
+  "info": "",
+  "license": "MIT",
+  "tags": [
+    "kde"
+  ]
+}

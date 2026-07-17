@@ -1,0 +1,10 @@
+{
+  "url": "https://apps.kde.org/dolphin_plugins/",
+  "category": "extra",
+  "description": "Extra Dolphin plugins",
+  "info": "",
+  "license": "LGPL-2.0-or-later",
+  "tags": [
+    "kde"
+  ]
+}

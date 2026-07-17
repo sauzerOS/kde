@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Sonic-DE/silver-theme",
+  "category": "extra",
+  "description": "Highly customizable binary Window Decoration, Application Style and Global Theme plugin for SonicDE.",
+  "info": "",
+  "license": "[\n  \"LGPL-2.0-or-later\"\n]",
+  "tags": [
+    "kde"
+  ]
+}

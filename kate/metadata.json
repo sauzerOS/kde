@@ -1,0 +1,11 @@
+{
+  "url": "https://apps.kde.org/kate/",
+  "category": "extra",
+  "description": "Advanced text editor",
+  "info": "",
+  "license": "GPL-2.0-or-later",
+  "tags": [
+    "editor",
+    "kde"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://apps.kde.org/ark/",
+  "category": "extra",
+  "description": "Archiving Tool",
+  "info": "",
+  "license": "GPL-2.0-or-later",
+  "tags": [
+    "kde"
+  ]
+}

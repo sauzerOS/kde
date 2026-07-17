@@ -1,0 +1,11 @@
+{
+  "url": "https://apps.kde.org/konsole/",
+  "category": "extra",
+  "description": "KDE terminal emulator",
+  "info": "",
+  "license": "GPL-2.0-or-later",
+  "tags": [
+    "emulator",
+    "kde"
+  ]
+}

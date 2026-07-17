@@ -1,0 +1,10 @@
+{
+  "url": "https://apps.kde.org/plasma-systemmonitor/",
+  "category": "extra",
+  "description": "An interface for monitoring system sensors, process information and other system resources",
+  "info": "",
+  "license": "GPL-2.0-or-later",
+  "tags": [
+    "kde"
+  ]
+}

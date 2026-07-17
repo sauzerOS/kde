@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Sonic-DE/silver-sddm",
+  "category": "extra",
+  "description": "Sonic Silver SDDM Theme (KDE Plasma 6)",
+  "info": "",
+  "license": "[\n  \"LGPL-2.0-or-later\"\n]",
+  "tags": [
+    "kde"
+  ]
+}

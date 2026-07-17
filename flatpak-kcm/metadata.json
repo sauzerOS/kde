@@ -1,0 +1,10 @@
+{
+  "url": "https://kde.org/plasma-desktop/",
+  "category": "extra",
+  "description": "Flatpak Permissions Management KCM",
+  "info": "",
+  "license": "LGPL-2.0-or-later",
+  "tags": [
+    "kde"
+  ]
+}

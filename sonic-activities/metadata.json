@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Sonic-DE/sonic-activities",
+  "category": "extra",
+  "description": "Core components for SonicDE Activities",
+  "info": "",
+  "license": "[\n  \"LGPL-2.0-or-later\"\n]",
+  "tags": [
+    "kde"
+  ]
+}

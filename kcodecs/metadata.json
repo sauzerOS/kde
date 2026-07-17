@@ -1,0 +1,11 @@
+{
+  "url": "https://develop.kde.org/products/frameworks/",
+  "category": "extra",
+  "description": "Provide a collection of methods to manipulate strings using various encodings",
+  "info": "",
+  "license": "LGPL-2.0-only",
+  "tags": [
+    "kde",
+    "multimedia"
+  ]
+}

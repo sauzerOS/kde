@@ -1,0 +1,10 @@
+{
+  "url": "https://develop.kde.org/products/frameworks/",
+  "category": "extra",
+  "description": "Framework for providing different actions given a string query",
+  "info": "",
+  "license": "LGPL-2.0-only",
+  "tags": [
+    "kde"
+  ]
+}

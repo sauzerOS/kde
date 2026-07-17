@@ -1,0 +1,11 @@
+{
+  "url": "https://kde.org/plasma-desktop/",
+  "category": "extra",
+  "description": "Applications useful for Plasma development",
+  "info": "",
+  "license": "LGPL-2.0-or-later",
+  "tags": [
+    "devel",
+    "kde"
+  ]
+}

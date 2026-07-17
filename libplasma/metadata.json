@@ -1,0 +1,11 @@
+{
+  "url": "https://kde.org/plasma-desktop/",
+  "category": "extra",
+  "description": "Plasma library and runtime components",
+  "info": "",
+  "license": "LGPL-2.0-or-later",
+  "tags": [
+    "kde",
+    "library"
+  ]
+}

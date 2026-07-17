@@ -1,0 +1,10 @@
+{
+  "url": "https://invent.kde.org/libraries/kirigami-addons",
+  "category": "extra",
+  "description": "Add-ons for the Kirigami framework",
+  "info": "",
+  "license": "GPL-2.0-or-later",
+  "tags": [
+    "kde"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "url": "https://kde.org/plasma-desktop/",
+  "category": "extra",
+  "description": "A utility that provides information about a computer system",
+  "info": "",
+  "license": "LGPL-2.0-or-later",
+  "tags": [
+    "kde",
+    "utility"
+  ]
+}

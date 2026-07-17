@@ -1,0 +1,11 @@
+{
+  "url": "https://gitlab.freedesktop.org/upower/power-profiles-daemon",
+  "category": "extra",
+  "description": "Makes power profiles handling available over D-Bus",
+  "info": "",
+  "license": "GPL-3.0-only",
+  "tags": [
+    "kde",
+    "server"
+  ]
+}

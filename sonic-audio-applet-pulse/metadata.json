@@ -1,0 +1,11 @@
+{
+  "url": "https://github.com/Sonic-DE/sonic-audio-applet-pulse",
+  "category": "extra",
+  "description": "SonicDE applet for audio volume management using PulseAudio",
+  "info": "",
+  "license": "[\n  \"LGPL-2.0-or-later\"\n]",
+  "tags": [
+    "kde",
+    "multimedia"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "url": "https://apps.kde.org/kdf/",
+  "category": "extra",
+  "description": "View Disk Usage",
+  "info": "",
+  "license": "GPL-2.0-or-later",
+  "tags": [
+    "disk-tools",
+    "kde"
+  ]
+}

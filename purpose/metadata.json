@@ -1,0 +1,10 @@
+{
+  "url": "https://develop.kde.org/products/frameworks/",
+  "category": "extra",
+  "description": "Framework for providing abstractions to get the developers purposes fulfilled",
+  "info": "",
+  "license": "LGPL-2.0-only",
+  "tags": [
+    "kde"
+  ]
+}

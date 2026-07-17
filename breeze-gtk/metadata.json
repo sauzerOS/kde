@@ -1,0 +1,10 @@
+{
+  "url": "https://kde.org/plasma-desktop/",
+  "category": "extra",
+  "description": "Breeze widget theme for GTK 2 and 3",
+  "info": "",
+  "license": "LGPL-2.0-or-later",
+  "tags": [
+    "kde"
+  ]
+}

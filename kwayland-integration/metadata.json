@@ -1,0 +1,11 @@
+{
+  "url": "https://kde.org/plasma-desktop/",
+  "category": "extra",
+  "description": "Provides integration plugins for various KDE frameworks for the wayland windowing system",
+  "info": "",
+  "license": "LGPL-2.0-or-later",
+  "tags": [
+    "kde",
+    "wayland"
+  ]
+}

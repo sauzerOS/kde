@@ -1,0 +1,11 @@
+{
+  "url": "https://apps.kde.org/dolphin/",
+  "category": "extra",
+  "description": "KDE File Manager",
+  "info": "",
+  "license": "LGPL-2.0-or-later",
+  "tags": [
+    "file-manager",
+    "kde"
+  ]
+}

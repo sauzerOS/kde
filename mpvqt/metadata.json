@@ -1,0 +1,10 @@
+{
+  "url": "https://invent.kde.org/libraries/mpvqt",
+  "category": "extra",
+  "description": "A libmpv wrapper for QtQuick2 and QML",
+  "info": "",
+  "license": "LGPL-2.1-only",
+  "tags": [
+    "kde"
+  ]
+}

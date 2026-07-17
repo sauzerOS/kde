@@ -1,0 +1,11 @@
+{
+  "url": "https://kde.org/plasma-desktop",
+  "category": "extra",
+  "description": "Plasma Specific Protocols for Wayland",
+  "info": "",
+  "license": "LGPL-2.0-or-later",
+  "tags": [
+    "kde",
+    "wayland"
+  ]
+}

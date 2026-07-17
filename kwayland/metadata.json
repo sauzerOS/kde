@@ -1,0 +1,14 @@
+{
+  "url": "https://kde.org/plasma-desktop/",
+  "category": "extra",
+  "description": "Qt-style Client and Server library wrapper for the Wayland libraries",
+  "info": "",
+  "license": "LGPL-2.0-or-later",
+  "tags": [
+    "cli",
+    "kde",
+    "library",
+    "server",
+    "wayland"
+  ]
+}

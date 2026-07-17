@@ -1,0 +1,10 @@
+{
+  "url": "https://kde.org/plasma-desktop/",
+  "category": "extra",
+  "description": "Qt Platform Theme integration plugins for the Plasma workspaces",
+  "info": "",
+  "license": "LGPL-2.0-or-later",
+  "tags": [
+    "kde"
+  ]
+}

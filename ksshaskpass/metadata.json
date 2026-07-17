@@ -1,0 +1,11 @@
+{
+  "url": "https://kde.org/plasma-desktop/",
+  "category": "extra",
+  "description": "ssh-add helper that uses kwallet and kpassworddialog",
+  "info": "",
+  "license": "GPL-2.0-or-later",
+  "tags": [
+    "kde",
+    "wallet"
+  ]
+}

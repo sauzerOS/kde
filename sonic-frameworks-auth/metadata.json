@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Sonic-DE/sonic-frameworks-auth",
+  "category": "extra",
+  "description": "Abstraction to system policy and authentication features",
+  "info": "",
+  "license": "[\n  \"LGPL-2.0-only\",\n  \"LGPL-3.0-only\"\n]",
+  "tags": [
+    "kde"
+  ]
+}

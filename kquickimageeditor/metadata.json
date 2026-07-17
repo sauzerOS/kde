@@ -1,0 +1,11 @@
+{
+  "url": "https://invent.kde.org/libraries/kquickimageeditor",
+  "category": "extra",
+  "description": "QML image editing components",
+  "info": "",
+  "license": "LGPL-2.1-or-later",
+  "tags": [
+    "graphics",
+    "kde"
+  ]
+}

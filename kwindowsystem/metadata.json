@@ -1,0 +1,10 @@
+{
+  "url": "https://develop.kde.org/products/frameworks/",
+  "category": "extra",
+  "description": "Access to the windowing system",
+  "info": "",
+  "license": "LGPL-2.0-only",
+  "tags": [
+    "kde"
+  ]
+}

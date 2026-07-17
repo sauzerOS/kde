@@ -1,0 +1,10 @@
+{
+  "url": "https://www.kde.org/",
+  "category": "extra",
+  "description": "Additional components to increase the functionality of KIO",
+  "info": "",
+  "license": "LGPL-2.0-or-later",
+  "tags": [
+    "kde"
+  ]
+}

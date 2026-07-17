@@ -1,0 +1,10 @@
+{
+  "url": "https://apps.kde.org/kcalc/",
+  "category": "extra",
+  "description": "Scientific Calculator",
+  "info": "",
+  "license": "GPL-2.0-or-later",
+  "tags": [
+    "kde"
+  ]
+}

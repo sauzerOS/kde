@@ -1,0 +1,11 @@
+{
+  "url": "https://apps.kde.org/haruna/",
+  "category": "extra",
+  "description": "Video player built with Qt/QML on top of libmpv",
+  "info": "",
+  "license": "GPL-3.0-or-later",
+  "tags": [
+    "kde",
+    "multimedia"
+  ]
+}

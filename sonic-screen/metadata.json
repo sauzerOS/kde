@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Sonic-DE/sonic-screen",
+  "category": "extra",
+  "description": "SonicDE screen management software",
+  "info": "",
+  "license": "[\n  \"LGPL-2.0-or-later\"\n]",
+  "tags": [
+    "kde"
+  ]
+}

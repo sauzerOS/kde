@@ -1,0 +1,11 @@
+{
+  "url": "https://develop.kde.org/products/frameworks/",
+  "category": "extra",
+  "description": "Secure and unified container for user passwords",
+  "info": "",
+  "license": "LGPL-2.0-only",
+  "tags": [
+    "kde",
+    "wallet"
+  ]
+}

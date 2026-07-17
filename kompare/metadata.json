@@ -1,0 +1,12 @@
+{
+  "url": "https://apps.kde.org/kompare/",
+  "category": "extra",
+  "description": "Graphical file differences tool",
+  "info": "",
+  "license": "GPL-2.0-or-later",
+  "tags": [
+    "graphics",
+    "gui",
+    "kde"
+  ]
+}

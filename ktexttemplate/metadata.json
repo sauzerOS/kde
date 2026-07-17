@@ -1,0 +1,11 @@
+{
+  "url": "https://develop.kde.org/products/frameworks/",
+  "category": "extra",
+  "description": "Library to allow application developers to separate the structure of documents from the data they contain",
+  "info": "",
+  "license": "LGPL-2.1-or-later",
+  "tags": [
+    "kde",
+    "library"
+  ]
+}

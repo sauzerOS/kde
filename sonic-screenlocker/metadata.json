@@ -1,0 +1,11 @@
+{
+  "url": "https://github.com/Sonic-DE/sonic-screenlocker",
+  "category": "extra",
+  "description": "Library and components for secure lock screen architecture",
+  "info": "",
+  "license": "[\n  \"LGPL-2.0-or-later\"\n]",
+  "tags": [
+    "kde",
+    "library"
+  ]
+}

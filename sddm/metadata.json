@@ -1,0 +1,12 @@
+{
+  "url": "https://github.com/sddm/sddm",
+  "category": "extra",
+  "description": "QML based X11 and Wayland display manager",
+  "info": "",
+  "license": "GPL-2.0-or-later",
+  "tags": [
+    "kde",
+    "wayland",
+    "x11"
+  ]
+}

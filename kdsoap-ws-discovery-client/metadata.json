@@ -1,0 +1,12 @@
+{
+  "url": "https://caspermeijn.gitlab.io/kdsoap-ws-discovery-client/",
+  "category": "extra",
+  "description": "WS-Discovery client library based on KDSoap",
+  "info": "",
+  "license": "CC0-1.0",
+  "tags": [
+    "cli",
+    "kde",
+    "library"
+  ]
+}

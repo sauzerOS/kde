@@ -1,0 +1,11 @@
+{
+  "url": "https://develop.kde.org/products/frameworks/",
+  "category": "extra",
+  "description": "Advanced embeddable text editor",
+  "info": "",
+  "license": "LGPL-2.0-only",
+  "tags": [
+    "editor",
+    "kde"
+  ]
+}

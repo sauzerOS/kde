@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/danvratil/qcoro",
+  "category": "extra",
+  "description": "C++ Coroutines for Qt",
+  "info": "",
+  "license": "MIT",
+  "tags": [
+    "kde"
+  ]
+}

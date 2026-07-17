@@ -1,0 +1,11 @@
+{
+  "url": "https://develop.kde.org/products/frameworks/",
+  "category": "extra",
+  "description": "KDE library for regional holiday information",
+  "info": "",
+  "license": "LGPL-2.0-only",
+  "tags": [
+    "kde",
+    "library"
+  ]
+}

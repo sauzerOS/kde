@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Sonic-DE/sonic-desktop-interface",
+  "category": "extra",
+  "description": "Sonic Desktop Interface",
+  "info": "",
+  "license": "[\n  \"LGPL-2.0-or-later\"\n]",
+  "tags": [
+    "kde"
+  ]
+}

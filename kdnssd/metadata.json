@@ -1,0 +1,11 @@
+{
+  "url": "https://develop.kde.org/products/frameworks/",
+  "category": "extra",
+  "description": "Abstraction to system DNSSD features",
+  "info": "",
+  "license": "LGPL-2.0-only",
+  "tags": [
+    "kde",
+    "network"
+  ]
+}

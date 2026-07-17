@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Sonic-DE/sonic-frameworks-cmake-modules",
+  "category": "extra",
+  "description": "Extra modules and scripts for CMake",
+  "info": "",
+  "license": "[\n  \"LGPL\"\n]",
+  "tags": [
+    "kde"
+  ]
+}

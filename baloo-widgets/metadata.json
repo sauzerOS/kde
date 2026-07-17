@@ -1,0 +1,10 @@
+{
+  "url": "https://www.kde.org/",
+  "category": "extra",
+  "description": "Widgets for Baloo",
+  "info": "",
+  "license": "LGPL-2.0-or-later",
+  "tags": [
+    "kde"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "url": "https://apps.kde.org/kwalletmanager5/",
+  "category": "extra",
+  "description": "Wallet management tool",
+  "info": "",
+  "license": "LGPL-2.0-or-later",
+  "tags": [
+    "kde",
+    "wallet"
+  ]
+}

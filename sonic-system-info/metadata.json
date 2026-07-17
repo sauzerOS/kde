@@ -1,0 +1,11 @@
+{
+  "url": "https://github.com/Sonic-DE/sonic-system-info",
+  "category": "extra",
+  "description": "A utility that provides information about a computer system",
+  "info": "",
+  "license": "[\n  \"LGPL-2.0-or-later\"\n]",
+  "tags": [
+    "kde",
+    "utility"
+  ]
+}

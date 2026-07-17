@@ -1,0 +1,10 @@
+{
+  "url": "https://invent.kde.org/system/kio-admin",
+  "category": "extra",
+  "description": "Manage files as administrator using the admin:// KIO protocol",
+  "info": "",
+  "license": "GPL-2.0-or-later",
+  "tags": [
+    "kde"
+  ]
+}

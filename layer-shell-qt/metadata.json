@@ -1,0 +1,11 @@
+{
+  "url": "https://kde.org/plasma-desktop/",
+  "category": "extra",
+  "description": "Qt component to allow applications to make use of the Wayland wl-layer-shell protocol",
+  "info": "",
+  "license": "GPL-2.0-or-later",
+  "tags": [
+    "kde",
+    "wayland"
+  ]
+}

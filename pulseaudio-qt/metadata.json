@@ -1,0 +1,11 @@
+{
+  "url": "https://community.kde.org/Frameworks",
+  "category": "extra",
+  "description": "Qt bindings for libpulse",
+  "info": "",
+  "license": "LGPL-2.1-only",
+  "tags": [
+    "kde",
+    "multimedia"
+  ]
+}

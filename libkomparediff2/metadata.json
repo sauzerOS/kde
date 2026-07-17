@@ -1,0 +1,11 @@
+{
+  "url": "https://www.kde.org/",
+  "category": "extra",
+  "description": "Library to compare files and strings",
+  "info": "",
+  "license": "GPL-2.0-or-later",
+  "tags": [
+    "kde",
+    "library"
+  ]
+}
