@@ -1,0 +1,9 @@
+ffmpeg
+glibc
+kconfig
+kcoreaddons
+kio
+libstdc++
+qt
+cmake make
+extra-cmake-modules make

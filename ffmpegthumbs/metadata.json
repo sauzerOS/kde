@@ -1,0 +1,10 @@
+{
+  "url": "https://apps.kde.org/ffmpegthumbs/",
+  "category": "extra",
+  "description": "FFmpeg-based thumbnail creator for video files",
+  "info": "",
+  "license": "GPL-2.0-or-later",
+  "tags": [
+    "kde"
+  ]
+}
