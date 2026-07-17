@@ -16,7 +16,7 @@ libcanberra
 libplasma
 libpulse
 plasma-workspace
-pipewire-pulse | pulseaudio
+pipewire-pulse | pulseaudio runtime
 pulseaudio-qt
 qt
 qt-declarative
