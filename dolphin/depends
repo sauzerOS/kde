@@ -30,7 +30,7 @@ kxmlgui
 qt
 qt-multimedia
 solid
-dolphin-plugins optional
+dolphin-plugins runtime
 ffmpegthumbs suggest video thumbnails
 filelight suggest detailed disk usage statistics
 kde-cli-tools suggest for editing file type options
@@ -39,5 +39,6 @@ kio-admin suggest for managing files as administrator
 kompare suggest comparing files menu action
 konsole suggest terminal panel
 purpose suggest share context menu
+dolphin-plugins optional make
 extra-cmake-modules make
 kdoctools make
