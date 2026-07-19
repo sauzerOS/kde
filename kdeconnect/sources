@@ -1,1 +1,2 @@
 https://download.kde.org/stable/release-service/26.04.3/src/kdeconnect-kde-26.04.3.tar.xz
+files/0001-core-fix-build-against-OpenSSL-4.0.patch
