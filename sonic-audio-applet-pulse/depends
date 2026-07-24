@@ -13,8 +13,8 @@ libcanberra
 libgcc
 libpulse
 libstdc++
+pipewire-pulse | pulseaudio runtime
 pulseaudio-qt
-pulse-native-provider
 qt
 qt-declarative
 sonic-frameworks-core-addons
