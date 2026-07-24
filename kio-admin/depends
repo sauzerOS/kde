@@ -5,3 +5,4 @@ kio
 polkit-qt
 qt
 extra-cmake-modules make 
+libatomic make
