@@ -35,6 +35,7 @@ qt-declarative
 qt-multimedia
 solid
 wayland
+sshfs suggest remote filesystem browser
 extra-cmake-modules make
 kpackage make
 wayland-protocols make
