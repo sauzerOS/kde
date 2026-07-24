@@ -1,7 +1,8 @@
 #!/bin/sh -e
 
-cmake -B build                    \
-  -D CMAKE_INSTALL_LIBEXECDIR=lib \
+cmake -B build                     \
+  -D CMAKE_INSTALL_LIBEXECDIR=lib  \
+  -D PAM_OS_CONFIGURATION=arch     \
   -D DBUS_CONFIG_FILENAME=plasma_org.freedesktop.DisplayManager.conf
 
 cmake --build build
