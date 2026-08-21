@@ -1,6 +1,6 @@
 #!/bin/sh -e
 
-patch -Np1 -i 0001-core-fix-build-against-OpenSSL-4.0.patch
+#patch -Np1 -i 0001-core-fix-build-against-OpenSSL-4.0.patch
 
 cmake -B build \
   -D BUILD_TESTING=OFF

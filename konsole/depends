@@ -23,6 +23,7 @@ ktextwidgets
 kwidgetsaddons
 kwindowsystem
 kxmlgui
+libssh
 libxkbcommon
 qt
 qt-multimedia
