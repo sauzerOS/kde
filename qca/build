@@ -1,8 +1,5 @@
 #!/bin/bash -e
 
-# openssl 4 fix
-#patch -Np1 -i qca-2.3.10-openssl4_fixes-1.patch
-
 sed -i 's@cert.pem@certs/ca-bundle.crt@' CMakeLists.txt
 
 cmake -B build                                   \
