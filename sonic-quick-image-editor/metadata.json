@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Sonic-DE/sonic-quick-image-editor",
+  "category": "extra",
+  "description": "QML image editing components with SonicDE defaults",
+  "info": "",
+  "license": "LGPL-2.1-or-later",
+  "tags": [
+    "sonicDE"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Sonic-DE/sonic-breeze",
+  "category": "extra",
+  "description": "Highly customizable binary Window Decoration, Application Style and Global Theme plugin for SonicDE",
+  "info": "",
+  "license": "LGPL-2.0-or-later",
+  "tags": [
+    "sonicDE"
+  ]
+}

@@ -15,9 +15,9 @@ libxi
 plasma5support
 qt
 qt-declarative
-sonic-frameworks-cmake-modules make
 sonic-frameworks-core-addons
 sonic-frameworks-quick-ui
 sonic-frameworks-windowsystem
 sonic-interface-libraries
 sonic-screen-library
+sonic-frameworks-cmake-modules make

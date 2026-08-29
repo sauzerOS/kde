@@ -1,0 +1,8 @@
+#!/bin/bash -e
+
+cmake -B build \
+  -D BINARY_ICONS_RESOURCE=ON \
+  -D BUILD_TESTING=OFF
+
+cmake --build build
+DESTDIR="$1" cmake --install build

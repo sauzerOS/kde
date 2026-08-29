@@ -1,3 +1,4 @@
+bash
 glibc
 karchive
 kcmutils
@@ -16,6 +17,7 @@ libkexiv2
 libmtp
 libplist
 libproxy
+libssh
 libstdc++
 libtirpc
 libxcursor
@@ -28,9 +30,14 @@ sonic-activities
 sonic-frameworks-core-addons
 sonic-frameworks-io
 syntax-highlighting
+kimageformats suggest thumbnails for additional image formats
+qt-imageformats suggest thumbnails for additional image formats
+sonic-activities-stats suggest recently used kioslave
+taglib suggest audio file thumbnails
 gperf make
 libappimage make
-plasma-activities-stats make
 qcoro make
+sonic-activities-stats make
 sonic-frameworks-cmake-modules make
+sonic-frameworks-doctools make
 taglib make

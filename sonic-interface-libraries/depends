@@ -1,8 +1,6 @@
 glibc
-kcolorscheme
 kconfig
 ki18n
-kiconthemes
 knotifications
 kpackage
 ksvg
@@ -16,8 +14,10 @@ qt
 qt-5compat
 qt-declarative
 sonic-activities
+sonic-frameworks-color-scheme
 sonic-frameworks-core-addons
 sonic-frameworks-gui-addons
+sonic-frameworks-icon-themes
 sonic-frameworks-io
 sonic-frameworks-keybind
 sonic-frameworks-quick-ui

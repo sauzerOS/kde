@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Sonic-DE/xdg-desktop-portal-sonicde",
+  "category": "extra",
+  "description": "X11 backend for xdg-desktop-portal using SonicDE and Qt",
+  "info": "",
+  "license": "LGPL-2.0-or-later",
+  "tags": [
+    "sonicDE"
+  ]
+}

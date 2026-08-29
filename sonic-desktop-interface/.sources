@@ -1,1 +1,2 @@
 https://github.com/Sonic-DE/sonic-desktop-interface/archive/refs/tags/${version}.tar.gz
+files/0001-add-explicit-input-backend-options.patch

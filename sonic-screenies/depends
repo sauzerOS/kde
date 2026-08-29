@@ -1,0 +1,36 @@
+glibc
+kconfig
+kcrash
+kdbusaddons
+ki18n
+kjobwidgets
+knotifications
+kservice
+kstatusnotifieritem
+kwidgetsaddons
+kxmlgui
+libgcc
+libstdc++
+libxcb
+opencv
+prison
+purpose
+qt
+qt-declarative
+qt-imageformats
+qt-multimedia
+sonic-frameworks-core-addons
+sonic-frameworks-gui-addons
+sonic-frameworks-io
+sonic-frameworks-keybind
+sonic-frameworks-quick-ui
+sonic-frameworks-settings-ui
+sonic-frameworks-windowsystem
+sonic-pipewire
+sonic-quick-image-editor
+tesseract
+xcb-util
+xcb-util-cursor
+xcb-util-image
+sonic-frameworks-cmake-modules make
+sonic-frameworks-doctools make

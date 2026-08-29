@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Sonic-DE/sonic-frameworks-open-collab",
+  "category": "extra",
+  "description": "Qt library that implements the Open Collaboration Services API",
+  "info": "",
+  "license": "LGPL-2.0-only LGPL-3.0-only",
+  "tags": [
+    "sonicDE"
+  ]
+}

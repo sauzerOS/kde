@@ -1,0 +1,4 @@
+python-pycairo make
+sassc make
+sonic-frameworks-cmake-modules make
+sonic-silver make

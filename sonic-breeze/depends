@@ -1,0 +1,25 @@
+frameworkintegration
+glibc
+hicolor-icon-theme
+kcmutils
+kcolorscheme
+kconfig
+ki18n
+kiconthemes
+kwidgetsaddons
+libgcc
+libstdc++
+qt
+qt-declarative
+qt-svg
+sonic-decoration
+sonic-frameworks-color-scheme
+sonic-frameworks-core-addons
+sonic-frameworks-gui-addons
+sonic-frameworks-icon-themes
+sonic-frameworks-quick-ui
+sonic-frameworks-silver-icons
+sonic-frameworks-windowsystem
+sonic-silver
+xdg-utils
+sonic-frameworks-cmake-modules make

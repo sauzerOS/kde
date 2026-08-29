@@ -1,0 +1,23 @@
+fonts-nerd-fonts-Hack
+fonts-noto
+glibc
+kconfig
+ki18n
+kjobwidgets
+kservice
+kstatusnotifieritem
+kwidgetsaddons
+libstdc++
+libxcb
+libxcursor
+qqc2-breeze-style
+qqc2-desktop-style
+qt
+qt-declarative
+sonic-frameworks-color-scheme
+sonic-frameworks-core-addons
+sonic-frameworks-gui-addons
+sonic-frameworks-icon-themes
+sonic-frameworks-io
+sonic-frameworks-windowsystem
+sonic-frameworks-cmake-modules make

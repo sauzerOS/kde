@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Sonic-DE/sonic-terminal",
+  "category": "extra",
+  "description": "SonicDE terminal emulator",
+  "info": "",
+  "license": "GPL-2.0-or-later",
+  "tags": [
+    "sonicDE"
+  ]
+}

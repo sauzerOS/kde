@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Sonic-DE/sonic-frameworks-idle-tracker",
+  "category": "extra",
+  "description": "X11 user activity monitoring framework for SonicDE",
+  "info": "",
+  "license": "LGPL-2.0-only LGPL-3.0-only",
+  "tags": [
+    "sonicDE"
+  ]
+}

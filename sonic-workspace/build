@@ -9,4 +9,4 @@ cmake --build build
 DESTDIR=$1 cmake --install build
 
 # sonic-x11-session
-_pick $1 sonic-x11-session /usr/share/xsessions/plasmax11.desktop
+_pick $1 sonic-x11-session usr/share/xsessions/sonicde.desktop

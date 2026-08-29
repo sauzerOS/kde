@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Sonic-DE/sonic-gtk-theme-bridge",
+  "category": "extra",
+  "description": "Syncs SonicDE settings to GTK applications",
+  "info": "",
+  "license": "LGPL-2.0-or-later",
+  "tags": [
+    "sonicDE"
+  ]
+}

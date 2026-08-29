@@ -2,9 +2,9 @@
   "url": "https://github.com/Sonic-DE/sonic-win",
   "category": "extra",
   "description": "An easy to use, but flexible, X Window Manager",
-  "info": "",
+  "info": "check this guide for improved experience:\nhttps://gist.github.com/guiodic/2bcc8f2f126d14b1f8a439f644fdc2c9\n",
   "license": "[\n  \"LGPL-2.0-or-later\"\n]",
   "tags": [
-    "kde"
+    "sonicDE"
   ]
 }

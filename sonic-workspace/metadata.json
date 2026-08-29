@@ -5,6 +5,9 @@
   "info": "",
   "license": "[\n  \"LGPL-2.0-or-later\"\n]",
   "tags": [
-    "kde"
+    "sonicDE"
+  ],
+  "subpackages": [
+    "sonic-x11-session"
   ]
 }

@@ -6,8 +6,6 @@ kdbusaddons
 kdeclarative
 kholidays
 ki18n
-kiconthemes
-kirigami-addons
 kitemmodels
 kjobwidgets
 knewstuff
@@ -30,6 +28,7 @@ sonic-frameworks-gui-addons
 sonic-frameworks-io
 sonic-frameworks-keybind
 sonic-frameworks-quick-ui
+sonic-frameworks-quick-ui-addons
 sonic-frameworks-runner
 sonic-frameworks-windowsystem
 sonic-interface-libraries

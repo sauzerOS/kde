@@ -1,0 +1,8 @@
+glibc
+kconfig
+ki18n
+libstdc++
+qt
+sonic-frameworks-gui-addons
+qt-tools make
+sonic-frameworks-cmake-modules make

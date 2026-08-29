@@ -1,0 +1,44 @@
+baloo
+baloo-widgets
+glibc
+kbookmarks
+kcmutils
+kcodecs
+kcompletion
+kconfig
+kcrash
+kdbusaddons
+kfilemetadata
+ki18n
+kjobwidgets
+knewstuff
+knotifications
+kparts
+kservice
+ktextwidgets
+kuserfeedback
+kwidgetsaddons
+kxmlgui
+libstdc++
+qt
+qt-multimedia
+solid
+sonic-frameworks-color-scheme
+sonic-frameworks-core-addons
+sonic-frameworks-gui-addons
+sonic-frameworks-icon-themes
+sonic-frameworks-io
+sonic-frameworks-io-extras
+sonic-frameworks-settings-ui
+sonic-frameworks-windowsystem
+dolphin-plugins suggest extra plugins 
+ffmpegthumbs suggest video thumbnails 
+filelight suggest detailed disk usage statistics 
+kdf suggest view disk usage 
+kio-admin suggest for managing files as administrator 
+kompare suggest comparing files menu action 
+purpose suggest share context menu 
+sonic-terminal-tools suggest for editing file type options 
+sonic-terminal suggest terminal panel
+sonic-frameworks-cmake-modules make
+sonic-frameworks-doctools make

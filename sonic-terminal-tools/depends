@@ -1,0 +1,20 @@
+bash
+glibc
+kcmutils
+kcompletion
+kconfig
+kdesu
+ki18n
+kparts
+kservice
+kwidgetsaddons
+libstdc++
+qt
+qt-svg
+sonic-frameworks-core-addons
+sonic-frameworks-icon-themes
+sonic-frameworks-io
+sonic-frameworks-windowsystem
+sonic-system-info suggest view hardware information
+sonic-frameworks-cmake-modules make
+sonic-frameworks-doctools make

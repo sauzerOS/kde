@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Sonic-DE/sonic-activities-stats",
+  "category": "extra",
+  "description": "A library for accessing the usage data collected by the activities system",
+  "info": "",
+  "license": "LGPL-2.0-or-later",
+  "tags": [
+    "sonicDE"
+  ]
+}

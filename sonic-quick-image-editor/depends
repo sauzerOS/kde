@@ -1,0 +1,9 @@
+glibc
+kconfig
+libgcc
+libstdc++
+opencv
+qt
+qt-declarative
+sonic-frameworks-quick-ui
+sonic-frameworks-cmake-modules make

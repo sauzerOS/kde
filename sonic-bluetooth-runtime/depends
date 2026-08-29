@@ -1,0 +1,24 @@
+bluez-qt
+glibc
+kcmutils
+kconfig
+kdbusaddons
+kdeclarative
+ki18n
+kjobwidgets
+knotifications
+kservice
+ksvg
+kwidgetsaddons
+libstdc++
+qt
+qt-declarative
+sonic-frameworks-core-addons
+sonic-frameworks-io
+sonic-frameworks-quick-ui
+sonic-frameworks-windowsystem
+sonic-interface-libraries
+pulseaudio-bluetooth suggest to connect to A2DP profile
+shared-mime-info make
+sonic-frameworks-cmake-modules make
+sonic-frameworks-doctools make

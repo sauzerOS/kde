@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Sonic-DE/sonic-frameworks-quick-ui-addons",
+  "category": "extra",
+  "description": "Add-ons for the Kirigami framework",
+  "info": "",
+  "license": "GPL-2.0-or-later",
+  "tags": [
+    "sonicDE"
+  ]
+}

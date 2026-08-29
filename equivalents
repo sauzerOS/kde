@@ -1,5 +1,5 @@
 # Upstream package and its mutually exclusive Sonic replacement.
-silver-theme sonic-silver-theme
+silver-theme sonic-silver
 silver-sddm sonic-silver-sddm
 extra-cmake-modules sonic-frameworks-cmake-modules
 attica sonic-frameworks-open-collab
@@ -26,7 +26,7 @@ kio-extras sonic-frameworks-io-extras
 kdecoration sonic-decoration
 kglobalacceld sonic-keybind-daemon
 kinfocenter sonic-system-info
-libksysguard sonic-sysguard-library
+libksysguard sonic-system-monitor-library
 libkscreen sonic-screen-library
 plasma-activities sonic-activities
 libplasma sonic-interface-libraries
@@ -43,3 +43,23 @@ kscreen sonic-screen
 plasma-pa sonic-audio-applet-pulse
 plasma-login-manager sonic-login-manager
 plasma-mobile sonic-mobile-interface
+plasma-activities-stats sonic-activities-stats
+bluedevil sonic-bluetooth-runtime
+drkonqi sonic-dr-robotnik
+kidletime sonic-frameworks-idle-tracker
+dolphin sonic-ecco
+kcolorscheme sonic-frameworks-color-scheme
+kiconthemes sonic-frameworks-icon-themes
+breeze-icons sonic-frameworks-silver-icons
+kconfigwidgets sonic-frameworks-settings-ui
+kde-cli-tools sonic-terminal-tools
+konsole sonic-terminal
+qqc2-breeze-style sonic-frameworks-quick-silver-style
+kde-gtk-config sonic-gtk-theme-bridge
+kpipewire sonic-pipewire
+plasma-integration sonic-qt-theme-bridge
+spectacle sonic-screenies
+breeze-gtk sonic-silver-gtk
+xdg-desktop-portal-kde xdg-desktop-portal-sonicde
+breeze-cursors sonic-breeze
+kirigami-addons sonic-frameworks-quick-ui-addons

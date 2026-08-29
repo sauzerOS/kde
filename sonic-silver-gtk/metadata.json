@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Sonic-DE/sonic-silver-gtk",
+  "category": "extra",
+  "description": "Silver widget theme for GTK 2 and 3",
+  "info": "",
+  "license": "LGPL-2.0-or-later",
+  "tags": [
+    "sonicDE"
+  ]
+}

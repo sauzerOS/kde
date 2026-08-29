@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Sonic-DE/sonic-bluetooth-runtime",
+  "category": "extra",
+  "description": "Integrate Bluetooth within SonicDE without Wayland components",
+  "info": "",
+  "license": "GPL-2.0-or-later",
+  "tags": [
+    "sonicDE"
+  ]
+}

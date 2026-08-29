@@ -1,5 +1,4 @@
 glibc
-kcmutils make
 kconfig
 kcrash
 kdeclarative
@@ -25,5 +24,7 @@ sonic-frameworks-windowsystem
 sonic-interface-libraries
 sonic-screen-library
 xcb-util-keysyms
+kcmutils suggest configuration module
+kcmutils make
 sonic-frameworks-cmake-modules make
 sonic-frameworks-doctools make

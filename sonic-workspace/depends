@@ -9,28 +9,20 @@ kactivitymanagerd
 karchive
 kbookmarks
 kcmutils
-kcolorscheme
 kcompletion
 kconfig
-kconfigwidgets
 kcrash
 kdbusaddons
 kdeclarative
-kde-cli-tools
 kded
 kholidays
 ki18n
-kiconthemes
-kidletime
-kio-fuse
-kirigami-addons
 kitemmodels
 kjobwidgets
 knewstuff
 knotifications
 kpackage
 kparts
-kpipewire
 kquickcharts
 kservice
 kstatusnotifieritem
@@ -59,7 +51,6 @@ libxft
 libxtst
 milou
 ocean-sound-theme
-plasma-activities-stats
 prison
 qt
 qt-5compat
@@ -71,26 +62,36 @@ qt-tools
 qt-virtualkeyboard
 solid
 sonic-activities
+sonic-activities-stats
 sonic-frameworks-auth
+sonic-frameworks-color-scheme
 sonic-frameworks-core-addons
 sonic-frameworks-gui-addons
+sonic-frameworks-idle-tracker
 sonic-frameworks-io
 sonic-frameworks-io-extras
+sonic-frameworks-io-fuse
 sonic-frameworks-keybind
 sonic-frameworks-quick-ui
+sonic-frameworks-quick-ui-addons
 sonic-frameworks-runner
+sonic-frameworks-settings-ui
 sonic-frameworks-windowsystem
 sonic-interface-libraries
+sonic-pipewire
 sonic-screenlocker
-sonic-sysguard-library
+sonic-system-monitor-library
+sonic-terminal-tools
 sonic-win
 systemd-libs
 xcb-util
 xcb-util-cursor
 xcb-util-image
+xcb-util-wm
 xorg-xmessage
 xorg-xrdb
 zlib-ng
+xdg-desktop-portal-gtk suggest sync font settings to Flatpak apps
 baloo make
 networkmanager-qt make
 qcoro make

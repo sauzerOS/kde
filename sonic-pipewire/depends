@@ -1,0 +1,14 @@
+ffmpeg
+glibc
+libdrm
+libepoxy
+libgcc
+libpipewire
+libstdc++
+libva
+mesa
+qt
+qt-declarative
+sonic-frameworks-core-addons
+ki18n make
+sonic-frameworks-cmake-modules make

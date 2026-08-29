@@ -1,5 +1,7 @@
 #!/bin/sh -e
 
+patch -Np1 -i 0001-add-explicit-input-backend-options.patch
+
 cmake -B build                    \
   -D CMAKE_INSTALL_LIBEXECDIR=lib \
   -D BUILD_TESTING=OFF

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Sonic-DE/sonic-dr-robotnik",
+  "category": "extra",
+  "description": "SonicDE crash handler",
+  "info": "",
+  "license": "GPL-2.0-or-later",
+  "tags": [
+    "sonicDE"
+  ]
+}

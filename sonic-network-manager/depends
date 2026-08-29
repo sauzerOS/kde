@@ -1,13 +1,11 @@
 glib
 glibc
 kcmutils
-kcolorscheme
 kcompletion
 kconfig
 kdbusaddons
 kdeclarative
 ki18n
-kirigami-addons
 kjobwidgets
 knotifications
 kquickcharts
@@ -25,9 +23,11 @@ qt
 qt-declarative
 qtkeychain
 solid
+sonic-frameworks-color-scheme
 sonic-frameworks-core-addons
 sonic-frameworks-io
 sonic-frameworks-quick-ui
+sonic-frameworks-quick-ui-addons
 sonic-frameworks-windowsystem
 sonic-interface-libraries
 sonic-workspace

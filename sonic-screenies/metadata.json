@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Sonic-DE/sonic-screenies",
+  "category": "extra",
+  "description": "SonicDE screenshot capture utility",
+  "info": "",
+  "license": "GPL-2.0-or-later",
+  "tags": [
+    "sonicDE"
+  ]
+}

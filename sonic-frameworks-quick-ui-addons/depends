@@ -1,0 +1,18 @@
+glibc
+kconfig
+kcrash
+ki18n
+kitemmodels
+ksvg
+libstdc++
+qt
+qt-declarative
+qt-multimedia
+sonic-frameworks-color-scheme
+sonic-frameworks-core-addons
+sonic-frameworks-gui-addons
+sonic-frameworks-icon-themes
+sonic-frameworks-keybind
+sonic-frameworks-quick-ui
+sonnet
+sonic-frameworks-cmake-modules make

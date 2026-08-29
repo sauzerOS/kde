@@ -1,0 +1,10 @@
+#!/bin/bash -e
+
+cmake -B build \
+  -D CMAKE_INSTALL_LIBEXECDIR=lib \
+  -D BUILD_TESTING=OFF \
+  -D ENABLE_SYSTEMD_COREDUMP=OFF \
+  -D WITH_PYTHON_VENDORING=OFF
+
+cmake --build build
+DESTDIR="$1" cmake --install build

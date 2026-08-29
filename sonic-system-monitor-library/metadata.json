@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Sonic-DE/sonic-system-monitor-library",
+  "category": "extra",
+  "description": "Library to retrieve information on the current status of computer hardware",
+  "info": "",
+  "license": "[\n  \"LGPL-2.0-or-later\"\n]",
+  "tags": [
+    "sonicDE"
+  ]
+}

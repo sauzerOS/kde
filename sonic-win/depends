@@ -1,15 +1,12 @@
 aurorae
-breeze
 glibc
 kcmutils
-kcolorscheme
 kconfig
 kcrash
 kdeclarative
 ki18n
 kitemmodels
 knewstuff
-knighttime
 knotifications
 kpackage
 kquickcharts
@@ -38,15 +35,18 @@ qt-tools
 sonic-activities
 sonic-decoration
 sonic-frameworks-auth
+sonic-frameworks-color-scheme
 sonic-frameworks-core-addons
 sonic-frameworks-gui-addons
+sonic-frameworks-idle-tracker
 sonic-frameworks-keybind
 sonic-frameworks-quick-ui
 sonic-frameworks-windowsystem
 sonic-interface-libraries
 sonic-keybind-daemon
 sonic-screenlocker
-sonic-x11-session
+sonic-silver
+sonic-x11-session runtime
 systemd-libs
 xcb-util-cursor
 xcb-util-keysyms

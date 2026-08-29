@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Sonic-DE/sonic-frameworks-icon-themes",
+  "category": "extra",
+  "description": "Support for icon themes",
+  "info": "",
+  "license": "LGPL-2.0-only LGPL-3.0-only",
+  "tags": [
+    "sonicDE"
+  ]
+}

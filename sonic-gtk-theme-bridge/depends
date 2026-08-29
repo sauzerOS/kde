@@ -1,0 +1,18 @@
+bash
+glib
+glibc
+kconfig
+kdbusaddons
+libstdc++
+qt
+qt-svg
+sonic-decoration
+sonic-frameworks-color-scheme
+sonic-frameworks-core-addons
+sonic-frameworks-gui-addons
+sonic-frameworks-windowsystem
+xdg-desktop-portal-gtk
+gtk+3 suggest GTK3 apps support
+gtk+3 make
+sassc make
+sonic-frameworks-cmake-modules make

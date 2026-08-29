@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Sonic-DE/sonic-ecco",
+  "category": "extra",
+  "description": "SonicDE File Manager",
+  "info": "",
+  "license": "LGPL-2.0-or-later",
+  "tags": [
+    "sonicDE"
+  ]
+}

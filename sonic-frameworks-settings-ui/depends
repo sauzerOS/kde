@@ -1,0 +1,11 @@
+glibc
+kcodecs
+kconfig
+ki18n
+kwidgetsaddons
+libstdc++
+qt
+sonic-frameworks-color-scheme
+sonic-frameworks-core-addons
+qt-tools make
+sonic-frameworks-cmake-modules make

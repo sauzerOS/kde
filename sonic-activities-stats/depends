@@ -1,0 +1,7 @@
+glibc
+kconfig
+libstdc++
+qt
+sonic-activities
+qt-tools make
+sonic-frameworks-cmake-modules make

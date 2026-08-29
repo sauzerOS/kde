@@ -1,0 +1,9 @@
+glibc
+libstdc++
+libx11
+libxcb
+libxext
+libxss
+qt
+sonic-frameworks-cmake-modules make
+qt-tools make

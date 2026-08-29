@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Sonic-DE/sonic-terminal-tools",
+  "category": "extra",
+  "description": "Tools based on SonicDE Frameworks to better interact with the system",
+  "info": "",
+  "license": "LGPL-2.0-or-later",
+  "tags": [
+    "sonicDE"
+  ]
+}

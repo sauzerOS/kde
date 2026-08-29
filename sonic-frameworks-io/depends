@@ -8,7 +8,6 @@ kconfig
 kcrash
 kdbusaddons
 ki18n
-kiconthemes
 kitemviews
 kjobwidgets
 kservice
@@ -19,9 +18,15 @@ libxml2
 libxslt
 qt
 solid
+sonic-frameworks-color-scheme
 sonic-frameworks-core-addons
 sonic-frameworks-gui-addons
+sonic-frameworks-icon-themes
 sonic-frameworks-windowsystem
 util-linux-libs
+kded suggest proxy management and cookie storage
+sonic-frameworks-io-extras suggest extra protocols support (sftp, fish and more)
+sonic-frameworks-io-fuse suggest to mount remote filesystems via FUSE
 qt-tools make
 sonic-frameworks-cmake-modules make
+sonic-frameworks-doctools make

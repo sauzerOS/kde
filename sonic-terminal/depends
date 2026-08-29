@@ -1,0 +1,32 @@
+bash
+glibc
+icu
+kbookmarks
+kconfig
+kcrash
+kdbusaddons
+ki18n
+knewstuff
+knotifications
+knotifyconfig
+kparts
+kpty
+kservice
+ktextwidgets
+kwidgetsaddons
+kxmlgui
+libssh
+libstdc++
+libxkbcommon
+qt
+qt-multimedia
+sonic-frameworks-color-scheme
+sonic-frameworks-core-addons
+sonic-frameworks-gui-addons
+sonic-frameworks-icon-themes
+sonic-frameworks-io
+sonic-frameworks-keybind
+sonic-frameworks-settings-ui
+sonic-frameworks-windowsystem
+sonic-frameworks-cmake-modules make
+sonic-frameworks-doctools make

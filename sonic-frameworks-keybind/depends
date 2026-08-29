@@ -1,5 +1,5 @@
-libstdc++
 glibc
+libstdc++
 qt
 qt-tools make
 sonic-frameworks-cmake-modules make

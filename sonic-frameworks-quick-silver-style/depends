@@ -1,0 +1,10 @@
+glibc
+kconfig
+libstdc++
+qt
+qt-declarative
+sonic-frameworks-color-scheme
+sonic-frameworks-gui-addons
+sonic-frameworks-icon-themes
+sonic-frameworks-quick-ui
+sonic-frameworks-cmake-modules make

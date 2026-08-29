@@ -1,0 +1,12 @@
+glibc
+karchive
+kconfig
+ki18n
+kwidgetsaddons
+libstdc++
+qt
+qt-svg
+sonic-frameworks-color-scheme
+sonic-frameworks-silver-icons
+qt-tools make
+sonic-frameworks-cmake-modules make

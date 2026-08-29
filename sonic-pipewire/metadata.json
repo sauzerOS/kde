@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Sonic-DE/sonic-pipewire",
+  "category": "extra",
+  "description": "X11-focused PipeWire components for SonicDE",
+  "info": "",
+  "license": "LGPL-2.0-or-later",
+  "tags": [
+    "sonicDE"
+  ]
+}
