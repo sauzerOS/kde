@@ -4,7 +4,6 @@ cmake -B build                            \
       -D CMAKE_INSTALL_PREFIX=/usr        \
       -D CMAKE_INSTALL_LIBEXECDIR=libexec \
       -D CMAKE_BUILD_TYPE=Release         \
-      -D BUILD_QT5=OFF                    \
       -D BUILD_TESTING=OFF                \
       -W no-dev
 
@@ -12,4 +11,4 @@ cmake --build build
 DESTDIR=$1 cmake --install build
 
 # plasma-x11-session
-_pick $1 plasma-x11-session /usr/share/xsessions/plasmax11.desktop
+_pick $1 plasma-x11-session usr/share/xsessions/plasmax11.desktop
