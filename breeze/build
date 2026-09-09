@@ -5,6 +5,7 @@ cmake -B build                            \
       -D CMAKE_INSTALL_LIBEXECDIR=libexec \
       -D CMAKE_BUILD_TYPE=Release         \
       -D BUILD_TESTING=OFF                \
+      -D BUILD_QT5=OFF                    \
       -W no-dev
 
 cmake --build build
