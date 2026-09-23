@@ -1,0 +1,25 @@
+glibc
+kbookmarks
+kcmutils
+kcompletion
+kconfig
+kconfigwidgets
+kcoreaddons
+kcrash
+kdnssd
+kguiaddons
+ki18n
+kio
+knotifyconfig
+kstatusnotifieritem
+kwidgetsaddons
+kxmlgui
+libssh
+libstdc++
+qt
+qtkeychain
+wayland
+extra-cmake-modules make
+freerdp make
+kdoctools make
+libvncserver make
