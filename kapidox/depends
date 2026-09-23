@@ -1,5 +1,5 @@
 python-jinja2
-python-yaml
+python-pyyaml
 python-build make
 python-installer make
 python-setuptools make
