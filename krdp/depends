@@ -1,0 +1,20 @@
+freerdp
+glibc
+kcmutils
+kconfig
+kcoreaddons
+kcrash
+kguiaddons
+ki18n
+kirigami-addons
+kpipewire
+kstatusnotifieritem
+libstdc++
+libxkbcommon
+pam
+qt
+qtkeychain
+systemd-libs
+wayland
+extra-cmake-modules make
+plasma-wayland-protocols make

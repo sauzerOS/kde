@@ -1,0 +1,8 @@
+{
+  "url": "https://kde.org/plasma-desktop/",
+  "category": "extra",
+  "description": "Library and examples for creating an RDP server",
+  "info": "",
+  "license": "LGPL-2.0-or-later",
+  "tags": []
+}
