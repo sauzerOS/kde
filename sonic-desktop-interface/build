@@ -1,6 +1,17 @@
 #!/bin/sh -e
 
-patch -Np1 -i 0001-add-explicit-input-backend-options.patch
+#patch -Np1 -i 0001-add-explicit-input-backend-options.patch
+
+# Sonic dropped the '#include "moc_<file>.cpp"' lines KDE's sources have, so
+# CMake compiles that moc code in mocs_compilation.cpp, where types a header
+# only forward-declares are incomplete. Qt 6.12 rejects that for kcm_kded's
+# ModulesModel/FilterProxyModel properties ("Meta Types must be fully
+# defined"); Sonic's Q_DECLARE_OPAQUE_POINTER workaround no longer passes and
+# would hide the QObject type from QML. Restore upstream: drop the opaque
+# declarations and compile the moc code in kcmkded.cpp again.
+sed -i '/^Q_DECLARE_OPAQUE_POINTER(\(ModulesModel\|FilterProxyModel\) \*)$/d' kcms/kded/kcmkded.h
+grep -q '^#include "moc_kcmkded.cpp"' kcms/kded/kcmkded.cpp ||
+    sed -i '/^#include "kcmkded.moc"$/a #include "moc_kcmkded.cpp"' kcms/kded/kcmkded.cpp
 
 cmake -B build                    \
   -D CMAKE_INSTALL_LIBEXECDIR=lib \
