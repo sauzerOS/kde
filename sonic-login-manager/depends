@@ -21,6 +21,6 @@ sonic-interface-libraries
 sonic-screen-library
 sonic-workspace
 systemd-libs
-xlibre
+xorg-server
 qt-tools make
 sonic-frameworks-cmake-modules make

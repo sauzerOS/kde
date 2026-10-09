@@ -7,7 +7,7 @@ pam
 qt
 qt-declarative
 systemd-libs
-xlibre
+xorg-server
 xorg-xauth
 extra-cmake-modules make
 qt-tools make 

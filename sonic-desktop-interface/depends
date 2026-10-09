@@ -67,5 +67,5 @@ xdg-user-dirs
 intltool make
 sonic-frameworks-cmake-modules make
 sonic-frameworks-doctools make
-xlibre-xf86-input-libinput make
-xlibre make
+xf86-input-libinput make
+xorg-server make
