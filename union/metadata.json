@@ -1,0 +1,8 @@
+{
+  "url": "https://kde.org/plasma-desktop/",
+  "category": "extra",
+  "description": "A Qt style supporting both QtQuick and QtWidgets",
+  "info": "",
+  "license": "LGPL-2.1-only, OR, LGPL-3.0-only, OR, LicenseRef-KDE-Accepted-LGPL",
+  "tags": []
+}

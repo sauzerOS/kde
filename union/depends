@@ -1,0 +1,14 @@
+cxx-rust-cssparser
+glibc
+kcolorscheme
+kconfig
+kcoreaddons
+kguiaddons
+kiconthemes
+kirigami
+libgcc
+libstdc++
+qt
+qt-declarative
+extra-cmake-modules make
+qt-shadertools make
