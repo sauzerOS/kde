@@ -21,6 +21,7 @@ lm-sensors
 mesa-utils
 qt
 qt-declarative
+qt-graphs
 solid
 systemd-libs
 systemsettings
