@@ -88,6 +88,7 @@ qt-tools
 qt-virtualkeyboard
 solid
 systemd-libs
+union
 wayland
 xcb-util
 xcb-util-cursor
@@ -98,7 +99,6 @@ xorg-xrdb
 xwayland
 zlib-ng
 baloo suggest Baloo search runner
-#kwayland-integration suggest Wayland integration for Qt5 applications
 kwin-x11 suggest X session window manager
 networkmanager-qt suggest IP based geolocation
 plasma-workspace-wallpapers suggest additional wallpapers
