@@ -1,0 +1,6 @@
+glibc
+libgcc
+libstdc++
+corrosion make
+extra-cmake-modules make
+qt make

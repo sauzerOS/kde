@@ -1,0 +1,8 @@
+{
+  "url": "https://kde.org/plasma-desktop/",
+  "category": "extra",
+  "description": "Library for parsing CSS using the Rust cssparser crate",
+  "info": "",
+  "license": "LGPL-2.1-only, LGPL-3.0-only",
+  "tags": []
+}
