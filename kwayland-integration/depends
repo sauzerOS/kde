@@ -1,5 +1,0 @@
-glibc
-wayland
-extra-cmake-modules make
-plasma-wayland-protocols make
-wayland-protocols make
