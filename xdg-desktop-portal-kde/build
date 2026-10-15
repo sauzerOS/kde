@@ -6,7 +6,7 @@ cmake -B build                            \
       -D CMAKE_BUILD_TYPE=Release         \
       -D BUILD_QT5=OFF                    \
       -D BUILD_TESTING=OFF                \
-      -W no-dev
+      -W no-author
 
 cmake --build build
 DESTDIR=$1 cmake --install build
