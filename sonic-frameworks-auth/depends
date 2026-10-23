@@ -1,8 +1,0 @@
-glibc
-libstdc++
-polkit-qt
-qt
-sonic-frameworks-core-addons
-sonic-frameworks-windowsystem
-qt-tools make
-sonic-frameworks-cmake-modules make

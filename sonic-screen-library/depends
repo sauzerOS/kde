@@ -1,7 +1,0 @@
-glibc
-libgcc
-libstdc++
-libxcb
-qt
-qt-tools make
-sonic-frameworks-cmake-modules make

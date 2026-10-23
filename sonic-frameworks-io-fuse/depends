@@ -1,7 +1,0 @@
-fuse3
-glibc
-libstdc++
-qt
-sonic-frameworks-core-addons
-sonic-frameworks-io
-sonic-frameworks-cmake-modules make
