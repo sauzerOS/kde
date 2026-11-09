@@ -1,0 +1,6 @@
+glibc
+ki18n
+libstdc++
+qt
+sane
+extra-cmake-modules make

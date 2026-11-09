@@ -1,0 +1,15 @@
+glibc
+kconfig
+kconfigwidgets
+kcoreaddons
+kcrash
+kguiaddons
+ki18n
+kio
+kwidgetsaddons
+kxmlgui
+libksane
+libstdc++
+qt
+extra-cmake-modules make
+kdoctools make

@@ -1,0 +1,9 @@
+glibc
+ki18n
+ksanecore
+ktextwidgets
+kwallet
+kwidgetsaddons
+libstdc++
+qt
+extra-cmake-modules make
