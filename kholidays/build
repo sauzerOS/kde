@@ -1,12 +1,14 @@
 #!/bin/bash -e
 
+# fix build with flex
+patch -Np1 -i ad077fe3b806c247bc433eaebf34baaceba35f7a.patch
+
 cmake -B build                            \
       -D CMAKE_INSTALL_PREFIX=/usr        \
       -D CMAKE_INSTALL_LIBEXECDIR=libexec \
       -D CMAKE_SKIP_INSTALL_RPATH=ON      \
       -D CMAKE_BUILD_TYPE=Release         \
       -D BUILD_TESTING=OFF                \
-      -D BUILD_PYTHON_BINDINGS=OFF        \
       -W no-dev
 
 cmake --build build
